@@ -110,3 +110,16 @@ export const getRandomQuestion = async (req: Request, res: Response): Promise<vo
       res.status(500).json({ message: 'Error fetching random question', error });
     }
   };
+
+// Controller to get all questions available in the database
+export const getAllQuestions = async (req: Request, res: Response) => {
+    try {
+      // Retrieve all questions from the database
+      const questions = await Question.find({});
+      // Send back the list of questions
+      res.status(200).json(questions);
+    } catch (error) {
+      // If there's an error, send back a 500 server error response
+      res.status(500).json({ message: 'Error fetching questions', error });
+    }
+  };
