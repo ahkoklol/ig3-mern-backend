@@ -10,6 +10,9 @@ export const createQuestion = async (req: Request, res: Response) => {
       choices: req.body.choices,
       correctAnswer: req.body.correctAnswer,
       teacherCorrection: req.body.teacherCorrection || null,
+      examNumber: req.body.examNumber,  
+      category: req.body.category,
+      part: req.body.part,
     });
 
     // Save the new question to the database
@@ -26,7 +29,7 @@ export const createQuestion = async (req: Request, res: Response) => {
 // Controller to edit an existing question
 export const editQuestion = async (req: Request, res: Response) => {
     const { questionId } = req.params; // Assuming the ID is passed as a URL parameter
-    const { text, choices, correctAnswer, teacherCorrection } = req.body;
+    const { text, choices, correctAnswer, teacherCorrection, examNumber, category, part } = req.body;
   
     try {
       const updatedQuestion = await Question.findByIdAndUpdate(
@@ -36,7 +39,10 @@ export const editQuestion = async (req: Request, res: Response) => {
             text,
             choices,
             correctAnswer,
-            teacherCorrection
+            teacherCorrection,
+            examNumber, 
+            category,
+            part,
           },
         },
         {
@@ -57,7 +63,7 @@ export const editQuestion = async (req: Request, res: Response) => {
     }
   };
 
-  // Controller to get a specific question by ID
+// Controller to get a specific question by ID
 export const getQuestion = async (req: Request, res: Response) => {
     const { questionId } = req.params; // Extract the question ID from URL parameters
   
@@ -76,7 +82,7 @@ export const getQuestion = async (req: Request, res: Response) => {
     }
   };
 
-  // Controller to delete a specific question by ID
+// Controller to delete a specific question by ID
 export const deleteQuestion = async (req: Request, res: Response) => {
     const { questionId } = req.params; // Extract the question ID from URL parameters
   
