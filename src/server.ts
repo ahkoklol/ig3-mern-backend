@@ -2,6 +2,7 @@ import "dotenv/config";
 import express, { Request, Response } from "express";
 import mongoose from 'mongoose';
 import userRoutes from './routes/user'; // Correct the import statement for userRoutes
+import questionRoutes from './routes/question'; // Import questionRoutes
 import cors from 'cors';
 
 // express app
@@ -23,6 +24,7 @@ app.get("/", (req: Request, res: Response) => {
 
 // Fix the route path and use userRoutes
 app.use('/api/user', userRoutes);
+app.use('/api/question', questionRoutes);
 
 
 // check if MONGO_URI is defined

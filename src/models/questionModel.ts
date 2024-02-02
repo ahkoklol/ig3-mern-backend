@@ -4,14 +4,14 @@ interface Question extends Document {
   text: string;
   choices: string[];
   correctAnswer: string;
-  teacherCorrection: string | null;
+  teacherCorrection?: string;
 }
 
 const questionSchema = new Schema<Question>({
   text: { type: String, required: true },
-  choices: [String],
+  choices: [{ type: String, required: true }],
   correctAnswer: { type: String, required: true },
-  teacherCorrection: String,
+  teacherCorrection: { type: String, required: false },
 });
 
 export default mongoose.model<Question>('Question', questionSchema);
