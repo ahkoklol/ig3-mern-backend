@@ -8,6 +8,7 @@ interface Question extends Document {
   examNumber: number;
   category: string;
   part: string;
+  ref: string;
 }
 
 const questionSchema = new Schema<Question>({
@@ -15,9 +16,10 @@ const questionSchema = new Schema<Question>({
   choices: [{ type: String, required: true }],
   correctAnswer: { type: String, required: true },
   teacherCorrection: { type: String, required: false },
-  examNumber: { type: Number, required: true },
+  examNumber: { type: Number, required: false },
   category: { type: String, required: true },
   part: { type: String, required: true },
+  ref: { type: String, required: false },
 });
 
 export default mongoose.model<Question>('Question', questionSchema);

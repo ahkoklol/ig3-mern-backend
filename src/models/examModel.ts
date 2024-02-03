@@ -7,7 +7,7 @@ interface Exam extends Document {
 }
 
 const examSchema = new Schema<Exam>({
-  examNumber: { type: Number, required: true },
+  examNumber: { type: Number, required: true, unique: true },
   questions: [{ type: Schema.Types.ObjectId, ref: 'Question' }],
   time: { type: Number, required: true },
 });

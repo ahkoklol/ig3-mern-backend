@@ -4,6 +4,7 @@ import mongoose from 'mongoose';
 import userRoutes from './routes/user'; // Correct the import statement for userRoutes
 import questionRoutes from './routes/question'; // Import questionRoutes
 import examRoutes from './routes/exam'; // Import examRoutes
+import partRoutes from './routes/part'; // Import partRoutes
 import cors from 'cors';
 
 // express app
@@ -27,6 +28,7 @@ app.get("/", (req: Request, res: Response) => {
 app.use('/api/user', userRoutes);
 app.use('/api/question', questionRoutes);
 app.use('/api/exam', examRoutes);
+app.use('/api/part', partRoutes);
 
 // check if MONGO_URI is defined
 if (!process.env.MONGO_URI) {
