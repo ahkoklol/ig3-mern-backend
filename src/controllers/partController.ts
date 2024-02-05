@@ -7,16 +7,25 @@ export const createPart = async (req: Request, res: Response) => {
     try {
         const { category, part, ref, time } = req.body;
 
-        // Create a new part
-        const newPart = await Part.create({ category, part, ref, time });
+        // First, find questions with the same ref to ensure they exist
+        const questions = await Question.find({ ref });
 
-        // Associate questions with the same ref
-        const questions = await Question.find({ ref: newPart.ref });
-        newPart.questions = questions.map(q => q._id);
-        await newPart.save();
+        // Log found questions for debugging
+        console.log(questions);
 
+        // If questions exist, proceed to create the new part
+        const newPart = await Part.create({
+            category,
+            part,
+            ref,
+            time,
+            questions: questions.map(q => q._id) // Map to their _id values
+        });
+
+        // Since the questions are being set upon creation, no need for a separate save unless other operations are performed
         res.status(201).json(newPart);
     } catch (error) {
+        console.error(error); // Log full error for debugging
         res.status(400).json({ message: error });
     }
 };
@@ -68,18 +77,28 @@ export const editPartByRef = async (req: Request, res: Response) => {
 export const getAllPartsByPartNumber = async (req: Request, res: Response) => {
     try {
         // Extract the part number from the request. This could be through query params or URL params.
-        // Example using URL params: /parts/:part
         const { part } = req.params;
 
         // Find parts that have the specified part number
         const parts = await Part.find({ part })
 
         if (parts.length === 0) {
-            return res.status(404).json({ message: 'No parts found with the specified part number' });
+            return res.status(404).json({ message: 'No parts found with the specified part name' });
         }
 
         res.json(parts);
     } catch (error) {
+        res.status(500).json({ message: error });
+    }
+};
+
+// Controller to get all parts
+export const getAllParts = async (req: Request, res: Response) => {
+    try {
+        const parts = await Part.find().populate('questions'); // Populates the questions for each part
+        res.json(parts); // Sends the array of parts as the response
+    } catch (error) {
+        console.error(error); // Log full error for debugging
         res.status(500).json({ message: error });
     }
 };

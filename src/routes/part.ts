@@ -1,13 +1,14 @@
 import { Router } from 'express';
 import {  } from '../controllers/partController';
-import { createPart, getAllPartsByPartNumber, getPartByRef, deletePartByRef, editPartByRef } from '../controllers/partController';
+import { createPart, getAllPartsByPartNumber, getPartByRef, deletePartByRef, editPartByRef, getAllParts } from '../controllers/partController';
 
 const router = Router();
 
 router.post('/create', createPart);
-router.get('/:part', getAllPartsByPartNumber);
+router.get('/allparts', getAllParts);
+router.get('/allparts/:part', getAllPartsByPartNumber);
 router.get('/:ref', getPartByRef);
 router.delete('/:ref', deletePartByRef);
-router.patch('/:ref', editPartByRef);
+router.put('/:ref', editPartByRef);
 
 export default router;
