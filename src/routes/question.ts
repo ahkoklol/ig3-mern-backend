@@ -3,7 +3,6 @@ import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQue
 
 const router = Router();
 
-// Route to create a new question
 router.get('/random', getRandomQuestion);
 router.post('/create', createQuestion);
 router.get('/allquestions', getAllQuestions)
