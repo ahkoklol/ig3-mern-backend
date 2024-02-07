@@ -1,25 +1,33 @@
 import { Request, Response } from 'express';
 import Question from '../models/questionModel'; // Assuming your Question model is exported with default
 
-// Controller to handle creating a new question
+// Controller to handle creating a new question with file uploads
 export const createQuestion = async (req: Request, res: Response) => {
   try {
+    // Since we're using multer's fields, req.files will be an object with keys corresponding to the field names
+    // We need to properly type cast req.files to inform TypeScript of the expected structure
+    const files = req.files as { [fieldname: string]: Express.Multer.File[] };
+    const imagePath = files.imagePath ? files.imagePath[0].path : null;
+    const audioPath = files.audioPath ? files.audioPath[0].path : null;
+
     // Create a new question using the data from the request body
     const newQuestion = new Question({
       text: req.body.text,
       choices: req.body.choices,
       correctAnswer: req.body.correctAnswer,
       teacherCorrection: req.body.teacherCorrection || null,
-      examNumber: req.body.examNumber,  
+      examNumber: req.body.examNumber,
       category: req.body.category,
       part: req.body.part,
       ref: req.body.ref || null,
+      imagePath: imagePath, // Will be null if no image was uploaded
+      audioPath: audioPath, // Will be null if no audio was uploaded
     });
 
     // Save the new question to the database
     const savedQuestion = await newQuestion.save();
 
-    // Send back the newly created question
+    // Send back the newly created question with file paths if applicable
     res.status(201).json(savedQuestion);
   } catch (error) {
     // If there's an error, send back a 500 server error response

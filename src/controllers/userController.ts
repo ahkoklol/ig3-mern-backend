@@ -54,10 +54,9 @@ export const profileUser = async (req: Request, res: Response) => {
         name: user.name,
         surname: user.surname,
         role: user.role,
+        class: user.class,
         examsTaken: user.examsTaken,
-        progress: user.progress,
         teachingClasses: user.teachingClasses,
-        assignedClasses: user.assignedClasses,
         dateJoined: user.dateJoined,
       };
   
@@ -67,3 +66,26 @@ export const profileUser = async (req: Request, res: Response) => {
       res.status(500).json({ error: "Server error" });
     }
   };
+
+// Controller to edit a user
+export const editUser = async (req: Request, res: Response): Promise<void> => {
+  const { userId } = req.params; // Extract the user's ID from the URL parameters
+  const updateData = req.body; // Data for updating the user
+
+  try {
+      // Assuming userId is a valid MongoDB ObjectId and updateData contains the fields you want to update
+      const updatedUser = await UserModel.findByIdAndUpdate(userId, updateData, {
+          new: true, // Return the updated user document
+          runValidators: true // Run schema validators on the update
+      });
+
+      if (!updatedUser) {
+          res.status(404).json({ message: 'User not found' });
+          return;
+      }
+
+      res.status(200).json(updatedUser);
+  } catch (error) {
+      res.status(500).json({ message: 'Error updating user', error });
+  }
+};

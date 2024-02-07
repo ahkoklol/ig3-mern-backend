@@ -1,17 +1,24 @@
 import Score from '../models/scoreModel'; // Adjust the path as necessary
 import { Request, Response } from 'express';
+import { UserModel } from '../models/userModel';
 
 // Controller to create/post a new score
 export const createScore = async (req: Request, res: Response) => {
     const { examNumber, questions, score, student } = req.body;
 
     try {
+        // Create a new Score document
         const newScore = await Score.create({
             examNumber,
             questions,
             score,
             date: new Date(), // Use the current date
             student
+        });
+
+        // Push the new score's ObjectId to the examsTaken array of the User document
+        await UserModel.findByIdAndUpdate(student, {
+            $push: { examsTaken: newScore._id }
         });
 
         res.status(201).json(newScore);

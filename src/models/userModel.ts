@@ -9,10 +9,9 @@ interface UserDocument extends Document {
     name: string;
     surname: string;
     role: string;
+    class: string;
     examsTaken: mongoose.Types.ObjectId[];
-    progress: mongoose.Types.ObjectId[];
     teachingClasses: mongoose.Types.ObjectId[];
-    assignedClasses: mongoose.Types.ObjectId[];
     dateJoined: Date;
 }
 
@@ -39,19 +38,15 @@ const userSchema = new mongoose.Schema<UserDocument>({
         type: String, 
         required: true 
     },
+    class: { 
+        type: String, 
+        required: false
+    },
     examsTaken: [{ 
         type: Schema.Types.ObjectId, 
-        ref: 'Exam' 
-    }],
-    progress: [{ 
-        type: Schema.Types.ObjectId, 
-        ref: 'ProgressEntry' 
+        ref: 'Score' 
     }],
     teachingClasses: [{ 
-        type: Schema.Types.ObjectId, 
-        ref: 'Class' 
-    }],
-    assignedClasses: [{ 
         type: Schema.Types.ObjectId, 
         ref: 'Class' 
     }],

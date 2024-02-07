@@ -7,6 +7,7 @@ import examRoutes from './routes/exam'; // Import examRoutes
 import partRoutes from './routes/part'; // Import partRoutes
 import cors from 'cors';
 import scoreRoutes from "./routes/score";
+import classRoutes from "./routes/class";
 
 // express app
 const app = express();
@@ -14,6 +15,7 @@ const app = express();
 // middleware
 app.use(cors());
 app.use(express.json());
+app.use('/uploads', express.static('uploads')); // Serve static files from uploads directory
 
 app.use((req: Request, res: Response, next) => {
     console.log(req.method, req.path);
@@ -31,6 +33,7 @@ app.use('/api/question', questionRoutes);
 app.use('/api/exam', examRoutes);
 app.use('/api/part', partRoutes);
 app.use('/api/score', scoreRoutes);
+app.use('/api/classes', classRoutes);
 
 // check if MONGO_URI is defined
 if (!process.env.MONGO_URI) {

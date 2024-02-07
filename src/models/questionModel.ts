@@ -9,10 +9,12 @@ interface Question extends Document {
   category: string;
   part: string;
   ref: string;
+  imagePath?: string; // URL or path to the image file
+  audioPath?: string; // URL or path to the audio file
 }
 
 const questionSchema = new Schema<Question>({
-  text: { type: String, required: true },
+  text: { type: String, required: false },
   choices: [{ type: String, required: true }],
   correctAnswer: { type: String, required: true },
   teacherCorrection: { type: String, required: false },
@@ -20,6 +22,8 @@ const questionSchema = new Schema<Question>({
   category: { type: String, required: true },
   part: { type: String, required: true },
   ref: { type: String, required: false },
+  imagePath: { type: String, required: false },
+  audioPath: { type: String, required: false },
 });
 
 export default mongoose.model<Question>('Question', questionSchema);
