@@ -4,7 +4,8 @@
   "description": "2023/2024 web project backend",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node src/server.ts\""
+    "dev": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node src/server.ts\"",
+    "build": "tsc -p tsconfig.json"
   },
   "keywords": [],
   "author": "",
