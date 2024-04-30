@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import multer from 'multer';
-import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQuestion, getAllQuestions, createMultipleQuestions, createMultipleQuestionsViaZip } from '../controllers/questionController';
+import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQuestion, getAllQuestions, createMultipleQuestionsViaZip } from '../controllers/questionController';
 
 const router = Router();
 
@@ -17,7 +17,6 @@ const storage = multer.diskStorage({
 const upload = multer({ storage });
 
 router.post('/create', upload.fields([{ name: 'imagePath', maxCount: 1 }, { name: 'audioPath', maxCount: 1 }]), createQuestion);
-router.post('/createmultiple', upload.single('questionFile'), createMultipleQuestions);
 router.post('/createmultiplezip', upload.single('questionZip'), createMultipleQuestionsViaZip);
 router.get('/random', getRandomQuestion);
 router.get('/allquestions', getAllQuestions);
