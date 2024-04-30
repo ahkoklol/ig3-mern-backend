@@ -236,8 +236,8 @@ export const createMultipleQuestionsViaZip = async (req: Request, res: Response)
 
             const newQuestion = new Question({
                 ...questionData,
-                imagePath: imageExists ? imagePath : 'Image not found',
-                audioPath: audioExists ? audioPath : 'Audio not found'
+                imagePath: imageExists ? imagePath : null,
+                audioPath: audioExists ? audioPath : null
             });
 
             return await newQuestion.save();
@@ -245,7 +245,7 @@ export const createMultipleQuestionsViaZip = async (req: Request, res: Response)
 
         // Clean up after processing
         fs.unlinkSync(filePath); // Delete the uploaded ZIP file
-        fs.rmdirSync(extractPath, { recursive: true }); // Remove the extracted files directory
+        //fs.rmdirSync(extractPath, { recursive: true }); // Remove the extracted files directory
 
         // Return the created questions
         res.status(201).json(createdQuestions);

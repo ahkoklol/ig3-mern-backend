@@ -1,0 +1,28 @@
+{
+    "questions": [
+      {
+        "text": "1. Listening: Photographs",
+        "choices": ["A)", "B)", "C)", "D)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "They are waiting on a platform",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Photographs",
+        "ref": "",
+        "imagePath": "e1q1.png",
+        "audioPath": ""
+      },
+      {
+        "text": "2. Listening: Photographs",
+        "choices": ["A)", "B)", "C)", "D)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "The bed has been made",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Photographs",
+        "ref": "",
+        "imagePath": "e1q2.png",
+        "audioPath": ""
+      }
+    ]
+  }
