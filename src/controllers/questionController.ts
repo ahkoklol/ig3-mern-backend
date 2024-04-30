@@ -1,5 +1,8 @@
 import { Request, Response } from 'express';
 import Question from '../models/questionModel'; // Assuming your Question model is exported with default
+import fs from 'fs';
+import path from 'path';
+import AdmZip from 'adm-zip';
 
 // Controller to handle creating a new question with file uploads
 export const createQuestion = async (req: Request, res: Response) => {
@@ -139,3 +142,115 @@ export const getAllQuestions = async (req: Request, res: Response) => {
       res.status(500).json({ message: 'Error fetching questions', error });
     }
   };
+
+  export const createMultipleQuestions = async (req: Request, res: Response) => {
+    const file = req.file as Express.Multer.File; // Type casting for multer file object
+    if (!file) {
+        return res.status(400).json({ message: 'No file uploaded' });
+    }
+
+    try {
+        // Read and parse the JSON file
+        const filePath = path.join(file.destination, file.filename);
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const questionsData = JSON.parse(fileContent).questions;
+
+        // Process each question
+        const createdQuestions = await Promise.all(questionsData.map(async (questionData: {
+            text: string;
+            choices: string[];
+            correctAnswer: string;
+            teacherCorrection?: string;
+            examNumber: string;
+            category: string;
+            part: string;
+            ref?: string;
+            imagePath?: string;
+            audioPath?: string;
+        }) => {
+            const imagePath = questionData.imagePath ? path.join('path/to/images', questionData.imagePath) : null;
+            const audioPath = questionData.audioPath ? path.join('path/to/audios', questionData.audioPath) : null;
+
+            const newQuestion = new Question({
+                ...questionData,
+                imagePath: imagePath,
+                audioPath: audioPath
+            });
+
+            return await newQuestion.save();
+        }));
+
+        // Clean up: Delete the temporary file
+        fs.unlinkSync(filePath);
+
+        // Send back the created questions
+        res.status(201).json(createdQuestions);
+    } catch (error) {
+        // Handle JSON parsing errors or other exceptions
+        res.status(500).json({ message: 'Error processing file', error });
+    }
+};
+
+
+export const createMultipleQuestionsViaZip = async (req: Request, res: Response) => {
+  const file = req.file as Express.Multer.File;
+    if (!file) {
+        return res.status(400).json({ message: 'No file uploaded' });
+    }
+
+    try {
+        const filePath = path.join(file.destination, file.filename);
+        const zip = new AdmZip(filePath);
+        const extractPath = path.join(file.destination);
+        
+        // Extract the ZIP file to a specific directory
+        zip.extractAllTo(extractPath, true);
+
+        // Find the JSON file and parse it
+        const jsonEntry = zip.getEntries().find(entry => entry.name.endsWith('.json'));
+        if (!jsonEntry) {
+            throw new Error('JSON file not found in the ZIP archive.');
+        }
+
+        const jsonDataPath = path.join(extractPath, jsonEntry.entryName);
+        const jsonData = JSON.parse(fs.readFileSync(jsonDataPath, 'utf8'));
+
+        // Process each question
+        const createdQuestions = await Promise.all(jsonData.questions.map(async (questionData: {
+            text: string;
+            choices: string[];
+            correctAnswer: string;
+            teacherCorrection?: string;
+            examNumber: string;
+            category: string;
+            part: string;
+            ref?: string;
+            imagePath?: string;
+            audioPath?: string;
+        }) => {
+            const imagePath = questionData.imagePath ? path.join(extractPath, questionData.imagePath) : null;
+            const audioPath = questionData.audioPath ? path.join(extractPath, questionData.audioPath) : null;
+
+            const imageExists = imagePath && fs.existsSync(imagePath);
+            const audioExists = audioPath && fs.existsSync(audioPath);
+
+            const newQuestion = new Question({
+                ...questionData,
+                imagePath: imageExists ? imagePath : 'Image not found',
+                audioPath: audioExists ? audioPath : 'Audio not found'
+            });
+
+            return await newQuestion.save();
+        }));
+
+        // Clean up after processing
+        fs.unlinkSync(filePath); // Delete the uploaded ZIP file
+        fs.rmdirSync(extractPath, { recursive: true }); // Remove the extracted files directory
+
+        // Return the created questions
+        res.status(201).json(createdQuestions);
+    } catch (error) {
+        console.error('Failed to process ZIP file:', error);
+        res.status(500).json({ message: 'Error processing file', error: error });
+    }
+};
