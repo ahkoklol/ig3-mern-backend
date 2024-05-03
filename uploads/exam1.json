@@ -119,6 +119,2634 @@
           "ref": "",
           "imagePath": "e1q10.png",
           "audioPath": ""
+      },
+      {
+        "text": "11. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "The best response is 'I'll check my schedule.' because it directly addresses the query about availability.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "12. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'Let's donate it to charity.' is appropriate as it suggests a practical and positive use for old furniture.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "13. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "The correct answer, 'Look in the shopping mall.', is relevant as it provides a likely location for a payphone.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "14. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'He's covering Sally's shift.' is correct because it explains why Henri is working late.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "15. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "Choosing 'It's almost ready.' is most fitting as it directly answers the inquiry about the report's completion.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "16. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'How about Jasmine?' is suitable because it proposes a person to handle the project effectively.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "17. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "The correct answer is 'I enjoyed it, too.' because it agrees with the positive sentiment about the presentation.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "18. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'Mr. Dyson did.' is correct because it directly answers the question about who ordered the parts.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "19. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "The correct answer is 'Tell him Bob Willis called.' because it provides specific information on what the message should say.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "20. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'His office is through the corridor.' is correct as it precisely answers the question about the bank manager's location.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "21. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "The best response is 'I’ll be in Malaysia.' as it directly answers the question about travel plans.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "22. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'It was even worse this morning.' is correct because it relates directly to the comment about traffic, indicating an earlier condition.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "23. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "The correct response is 'Monday at the latest.' It directly answers when the report is needed.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "24. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'Could you file them in the cabinet, please?' is the appropriate response as it suggests a specific action related to organizing the folders.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "25. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "'They should be here within 2 days.' directly answers the question regarding the arrival time of the goods.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "26. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'No, you go ahead.' is the correct response when asked if a seat is taken, indicating it is available.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "27. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'Take the express bus.' is the best answer, providing a direct and efficient means to reach the airport.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "28. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'No, we couldn’t get tickets.' explains why they didn't attend the opera, directly addressing the question posed.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "29. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "'Yes, I caught up with them.' is the correct response as it confirms the person's recent interaction with Mark and Jenny.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "30. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'Actually I've already renewed it.' directly addresses the query about the gym membership status.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "31. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'Nothing special.' is a common response to indicate that the lunch conversation was casual or unremarkable.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "32. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'Why don’t you ask him?' suggests directly obtaining the information from the source, which is appropriate for personal inquiries.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "33. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "Asking 'Do they serve decaf?' addresses the specifics of coffee options available, relevant to someone considering whether to have coffee.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "34. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'Just a small suitcase.' is an appropriate response indicating the minimal amount of luggage for the vacation.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "35. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "The response 'Really interesting.' appropriately reflects a typical reaction to a query about a business conference's quality.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "36. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'Yes, we met at the product launch.' is correct as it directly answers the query about knowing Ms. Marks in a professional context.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "37. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "B)",
+        "teacherCorrection": "'I’d better get one from Security.' is the appropriate response when asked about needing a swipe card, indicating a practical step to solve the issue.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "38. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'We want to increase our brand recognition.' directly addresses the strategic reason behind the spending on advertising.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "39. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "C)",
+        "teacherCorrection": "'I will at the next meeting.' is a forward-looking response indicating when the proposal will be presented, relevant to the query about its current status.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "40. Listening: Question-Response",
+        "choices": ["A)", "B)", "C)"],
+        "correctAnswer": "A)",
+        "teacherCorrection": "'It's nearly lunch time.' effectively addresses the timing of the meal break, suggesting a suitable time for lunch.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Question-Response",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "41. Where are the speakers?",
+        "choices": ["A) In a music store", "B) In an electronics store", "C) In a hardware store", "D) In a supermarket"],
+        "correctAnswer": "B) In an electronics store",
+        "teacherCorrection": "The conversation revolves around a stereo system, indicating it took place in an electronics store.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "42. What does the woman receive?",
+        "choices": ["A) A refund", "B) A replacement", "C) Store credit", "D) Discounted items"],
+        "correctAnswer": "C) Store credit",
+        "teacherCorrection": "The woman is offered store credit instead of a refund as per store policy.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "43. What issue does the man mention?",
+        "choices": ["A) The voucher will take time to process", "B) The full value of the item will not be credited", "C) The credit is valid for a limited time", "D) The store policy is liable to change"],
+        "correctAnswer": "C) The credit is valid for a limited time",
+        "teacherCorrection": "The man mentions that the store credit must be used within the next six months, highlighting its time-limited validity.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "47. Why is the man concerned?",
+        "choices": ["A) He cannot find the bus stop", "B) The bus is behind schedule", "C) The mall is not open yet", "D) He woke up late"],
+        "correctAnswer": "B) The bus is behind schedule",
+        "teacherCorrection": "The man is concerned because the bus, which should have arrived five minutes ago, is late.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "48. When does the man start work?",
+        "choices": ["A) 5 o'clock", "B) 7 o'clock", "C) 9 o'clock", "D) 11 o'clock"],
+        "correctAnswer": "C) 9 o'clock",
+        "teacherCorrection": "The man mentions needing to be at his new job by 9 AM, indicating his start time.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "49. What does the woman suggest?",
+        "choices": ["A) Going to another stop", "B) Catching an alternative bus", "C) Boarding a train", "D) Looking at the schedule"],
+        "correctAnswer": "B) Catching an alternative bus",
+        "teacherCorrection": "The woman suggests catching the number 11 bus, which also goes to his destination, as an alternative.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "50. What are the speakers discussing?",
+        "choices": ["A) A media skills training program", "B) A grand opening of a facility", "C) An event for members of the press", "D) A proposal to host an industry event"],
+        "correctAnswer": "C) An event for members of the press",
+        "teacherCorrection": "The speakers are discussing preparations for a media open day at the laboratory, an event intended for press members.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "51. What task does the man still have to do?",
+        "choices": ["A) Prepare some business cards", "B) Arrange some identity passes", "C) Take care of security planning", "D) Finalize the schedule of events"],
+        "correctAnswer": "B) Arrange some identity passes",
+        "teacherCorrection": "The man still needs to prepare ID security cards for the event attendees.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "52. What does the man offer to do?",
+        "choices": ["A) Send the woman a document", "B) Delay the event by a week", "C) Schedule an appointment for the woman", "D) Prepare refreshments"],
+        "correctAnswer": "A) Send the woman a document",
+        "teacherCorrection": "The man offers to forward a copy of the program for the event to the woman.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "53. What is the conversation about?",
+        "choices": ["A) Going to see a performance", "B) Taking part in a conference", "C) Getting to a sports event", "D) Planning to go to a concert"],
+        "correctAnswer": "A) Going to see a performance",
+        "teacherCorrection": "The conversation is about attending an opera, which is a type of performance.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "54. How did the man get tickets?",
+        "choices": ["A) From some friends", "B) Through the Internet", "C) Over the phone", "D) At the box office"],
+        "correctAnswer": "B) Through the Internet",
+        "teacherCorrection": "The man bought the tickets online as soon as they were available for sale.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "55. Where will the speakers probably go next?",
+        "choices": ["A) An auditorium", "B) A shopping mall", "C) A restaurant", "D) An events center"],
+        "correctAnswer": "C) A restaurant",
+        "teacherCorrection": "Before heading to the auditorium, the speakers plan to eat at a new diner on Fort Street.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "56. What is the problem?",
+        "choices": ["A) The new interns have not turned up", "B) The workspace is being renovated", "C) The finance department is understaffed", "D) A floor has insufficient office space"],
+        "correctAnswer": "D) A floor has insufficient office space",
+        "teacherCorrection": "The issue discussed is the lack of sufficient workspace on the fifth floor for the new interns.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "57. What does the man recommend?",
+        "choices": ["A) Seating the interns downstairs", "B) Reassigning a portion of a team", "C) Moving the office furniture around", "D) Installing computers around the building"],
+        "correctAnswer": "C) Moving the office furniture around",
+        "teacherCorrection": "The man suggests moving other employees around to make space for the interns to work alongside the finance department.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "58. Who are Todd and Jeff?",
+        "choices": ["A) Administrative workers", "B) Computer technicians", "C) Finance interns", "D) Customer support employees"],
+        "correctAnswer": "B) Computer technicians",
+        "teacherCorrection": "Todd and Jeff are IT support technicians, known for dealing with computer issues across the building.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "59. What service does the woman offer?",
+        "choices": ["A) Catering for special occasions", "B) Making flower arrangements", "C) Arranging business conferences", "D) Providing insurance for large events"],
+        "correctAnswer": "B) Making flower arrangements",
+        "teacherCorrection": "The woman offers to help by arranging flowers for the event, as she is speaking from a florist's service.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "60. What is the extra charge for?",
+        "choices": ["A) A lack of stock", "B) A rush order", "C) A delivery fee", "D) A service tax"],
+        "correctAnswer": "B) A rush order",
+        "teacherCorrection": "The extra charge is for a rush order, as the request for flowers is last-minute and needs to be fulfilled quickly.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "61. What will the man probably do next?",
+        "choices": ["A) Compare prices", "B) Collect an order", "C) Fax a request sheet", "D) Make a payment"],
+        "correctAnswer": "C) Fax a request sheet",
+        "teacherCorrection": "Colin mentions he will fax the details of the flower order to Marjorie next, indicating his immediate next action.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "62. Who is the man talking to?",
+        "choices": ["A) A hotel employee", "B) A maintenance worker", "C) A call center worker", "D) An international phone operator"],
+        "correctAnswer": "A) A hotel employee",
+        "teacherCorrection": "The man is inquiring about the cost of making an overseas call, which he discusses with a hotel employee.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "63. What does the man say is overpriced?",
+        "choices": ["A) The phone line installation in Singapore", "B) The cost of buying a cellphone", "C) The hotel's direct phone service", "D) The national telephone charge"],
+        "correctAnswer": "C) The hotel's direct phone service",
+        "teacherCorrection": "The man complains about the high cost of $5 per minute for the hotel's direct overseas call service, which he finds overpriced.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "64. What does the woman recommend?",
+        "choices": ["A) Using an Internet calling service", "B) Buying a phone card", "C) Finding a local pay phone", "D) Purchasing a cellphone"],
+        "correctAnswer": "B) Buying a phone card",
+        "teacherCorrection": "The woman suggests purchasing an international calling card from local stores as a more affordable option than the hotel's service.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "65. What does the man ask the woman about?",
+        "choices": ["A) Her fishing vacation", "B) Her morning commute", "C) Her weekend plans", "D) Her work schedule"],
+        "correctAnswer": "C) Her weekend plans",
+        "teacherCorrection": "The man inquires about the woman's plans for the weekend, specifically her intention to visit the coast.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "66. What is the woman's problem?",
+        "choices": ["A) There is heavy traffic on the road.", "B) Her vehicle is not currently working.", "C) The weather was bad on her trip.", "D) Her vacation was delayed by a week."],
+        "correctAnswer": "B) Her vehicle is not currently working.",
+        "teacherCorrection": "The woman's car has broken down and is in the service center, which prevents her from driving to the coast.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "67. What does the man recommend?",
+        "choices": ["A) Taking a train", "B) Delaying the trip", "C) Going with him", "D) Borrowing his car"],
+        "correctAnswer": "A) Taking a train",
+        "teacherCorrection": "The man suggests that the woman can still reach the coast by taking the express train, which is a practical alternative given her car is unavailable.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "68. What are the speakers discussing?",
+        "choices": [
+          "A) A recent meeting",
+          "B) A job notice",
+          "C) A recruitment issue",
+          "D) A personnel policy"
+        ],
+        "correctAnswer": "C) A recruitment issue",
+        "teacherCorrection": "The speakers are discussing a recruitment issue related to making a counter-offer to a candidate who received a job offer from another company.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "69. Who did Brookings Inc. express interest in hiring?",
+        "choices": [
+          "A) Mike",
+          "B) Josephine",
+          "C) Mary",
+          "D) Andrew"
+        ],
+        "correctAnswer": "B) Josephine",
+        "teacherCorrection": "Brookings Inc. expressed interest in hiring Josephine, as she was the one who received a job offer and for whom a counter-offer is being considered.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "70. What will probably happen soon?",
+        "choices": [
+          "A) Mr. Fowler will come for an interview",
+          "B) The committee members will make a decision",
+          "C) Both of the candidates will be offered jobs",
+          "D) The man will get in contact with Brookings’ executives"
+        ],
+        "correctAnswer": "B) The committee members will make a decision",
+        "teacherCorrection": "The conversation implies that the committee members will need to make a quick decision about making a counter-offer to Josephine, considering the urgency and the context of another strong candidate, Andrew Fowler.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Conversations",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "71. What is the purpose of the woman's message?",
+        "choices": [
+          "A) To ask when an employee will return to work",
+          "B) To inquire about the status of a patient",
+          "C) To find out about visiting hours at the hospital",
+          "D) To show her support for an employee"],
+        "correctAnswer": "D) To show her support for an employee",
+        "teacherCorrection": "The purpose of the woman's message is to show her support for an employee. She calls to check on Adam after his emergency operation and ensures he feels supported by his colleagues.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "72. What happened to the man?",
+        "choices": [
+          "A) He came to work feeling unwell",
+          "B) He had a medical emergency",
+          "C) He suffered a workplace injury",
+          "D) He was discharged from the hospital"
+        ],
+        "correctAnswer": "B) He had a medical emergency",
+        "teacherCorrection": "The man had a medical emergency, as evidenced by the reference to an emergency operation that required him to take time off from work to recover.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "73. When will the speaker probably see the man next?",
+        "choices": [
+          "A) Tonight",
+          "B) Tomorrow",
+          "C) On the weekend",
+          "D) Next week"
+        ],
+        "correctAnswer": "B) Tomorrow",
+        "teacherCorrection": "The speaker, Yoko, will probably see the man tomorrow, as she mentions that a small group from the office plans to visit him at the hospital then.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "74. What type of report is this?",
+        "choices": [
+          "A) A weather forecast",
+          "B) A business bulletin",
+          "C) A global company’s sales report",
+          "D) A sports broadcast"
+        ],
+        "correctAnswer": "B) A business bulletin",
+        "teacherCorrection": "This is a business bulletin focusing on market performances and regulations affecting various regions, including Europe and Asia.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "75. Where are results not yet available?",
+        "choices": [
+          "A) Europe",
+          "B) Korea",
+          "C) Taiwan",
+          "D) North America"
+        ],
+        "correctAnswer": "D) North America",
+        "teacherCorrection": "The report indicates that trading has not yet closed in the US and Canada, which are part of North America, hence results are not available there.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "76. How can listeners get more information?",
+        "choices": [
+          "A) By logging on to a website",
+          "B) By switching to another channel",
+          "C) By tuning in to a nightly show",
+          "D) By listening to the next report"
+        ],
+        "correctAnswer": "D) By listening to the next report",
+        "teacherCorrection": "The announcer directs listeners to HBC's dedicated Business News on Channel 7 for more detailed information, indicating the next report will provide further details.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "77. Where most likely is the announcement being made?",
+        "choices": [
+          "A) At a restaurant",
+          "B) At an opening ceremony",
+          "C) At a business event",
+          "D) At a music concert"
+        ],
+        "correctAnswer": "D) At a music concert",
+        "teacherCorrection": "The announcement about changes in performance times suggests it's being made at a music concert.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "78. Why has there been a schedule change?",
+        "choices": [
+          "A) The star of the show arrived late.",
+          "B) A performance has been delayed.",
+          "C) One act has been canceled.",
+          "D) A performer has to leave early."
+        ],
+        "correctAnswer": "D) A performer has to leave early.",
+        "teacherCorrection": "The schedule change is due to the performer, Mr. Watson, needing to catch an earlier flight, necessitating an earlier performance time.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "79. According to the speaker, what will Mr. Watson do tomorrow?",
+        "choices": [
+          "A) Do a live performance",
+          "B) Make a television appearance",
+          "C) Catch a flight to Dublin",
+          "D) Record a song with a choir"
+        ],
+        "correctAnswer": "B) Make a television appearance",
+        "teacherCorrection": "Mr. Watson is scheduled to appear on a breakfast television show in Dublin the following morning.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "80. Who is Jennifer Plummer?",
+        "choices": [
+          "A) A public speaking expert",
+          "B) A psychologist",
+          "C) A marketing executive",
+          "D) A government official"
+        ],
+        "correctAnswer": "C) A marketing executive",
+        "teacherCorrection": "Jennifer Plummer is described as a marketing executive who has conducted research on social marketing.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "81. What has Ms. Plummer recently done?",
+        "choices": [
+          "A) Published a book",
+          "B) Supported a social cause",
+          "C) Started a political campaign",
+          "D) Conducted a study"
+        ],
+        "correctAnswer": "D) Conducted a study",
+        "teacherCorrection": "Recently, Ms. Plummer has completed a study on the impact of social marketing campaigns on public health and safety issues.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "82. What will the talk most likely be about?",
+        "choices": [
+          "A) Spreading social messages",
+          "B) Advertising products to the public",
+          "C) Using social media",
+          "D) Getting feedback from the community"
+        ],
+        "correctAnswer": "A) Spreading social messages",
+        "teacherCorrection": "The talk will likely discuss effective strategies for spreading social messages, based on her recent research findings.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "83. What is being advertised?",
+        "choices": ["A) A cooking appliance", "B) A barbecue set", "C) A food product", "D) A diet program"],
+        "correctAnswer": "A) A cooking appliance",
+        "teacherCorrection": "The advertisement is for a cooking appliance, specifically the TMP Electric Grill, which is designed to cook food while allowing fat to drip away.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "84. Why might listeners visit the website?",
+        "choices": ["A) To learn about the item's design", "B) To receive a special offer", "C) To search for a list of recipes", "D) To find opinions on the product"],
+        "correctAnswer": "D) To find opinions on the product",
+        "teacherCorrection": "Listeners might visit the website to view customer feedback on the TMP Electric Grill, as the advertisement encourages checking the website for customer opinions.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "85. What is offered for a short time?",
+        "choices": ["A) A discount price", "B) An extended warranty", "C) A complimentary book", "D) A free product trial"],
+        "correctAnswer": "C) A complimentary book",
+        "teacherCorrection": "For a limited time, the advertisement offers a free recipe book with the purchase of the TMP Electric Grill.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "86. Where most likely is the announcement being made?",
+        "choices": ["A) In an airport", "B) In an office", "C) In a factory", "D) In a classroom"],
+        "correctAnswer": "C) In a factory",
+        "teacherCorrection": "The announcement is likely being made in a factory setting, as it involves instructions to workers about equipment maintenance and safety training.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "87. What will happen at 10 am?",
+        "choices": ["A) Normal operations will resume", "B) Equipment will be replaced", "C) Machines will be turned off", "D) The workers' lounge will be shut"],
+        "correctAnswer": "C) Machines will be turned off",
+        "teacherCorrection": "At 10 am, some of the machinery in the factory will be switched off to allow engineers to perform maintenance.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "88. Who is Kyle Bennett?",
+        "choices": ["A) A safety engineer", "B) A health and safety trainer", "C) A machine operator", "D) A maintenance employee"],
+        "correctAnswer": "B) A health and safety trainer",
+        "teacherCorrection": "Kyle Bennett is mentioned as the person who will instruct the health and safety training session, implying he is a trainer in that field.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "89. What is being advertised?",
+        "choices": ["A) A new menu", "B) A restaurant opening", "C) A special promotion", "D) A price change"],
+        "correctAnswer": "C) A special promotion",
+        "teacherCorrection": "The advertisement is for a special promotion at Country Chicken, offering a Hot and Spicy Set meal at a discount.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "90. According to the advertisement, what is included?",
+        "choices": ["A) French fries", "B) Dipping sauce", "C) Fresh salad", "D) Alcoholic drinks"],
+        "correctAnswer": "B) Dipping sauce",
+        "teacherCorrection": "The Hot and Spicy Set from Country Chicken includes a choice of dipping sauces among other items.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Advertisements",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "91. What might customers win?",
+        "choices": ["A) A family car", "B) A store voucher", "C) Free food", "D) A vacation"],
+        "correctAnswer": "D) A vacation",
+        "teacherCorrection": "Customers who purchase the Hot and Spicy Set have a chance to win a family trip to Cancun, which is described as a vacation.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Advertisements",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "92. Where most likely is the speaker?",
+        "choices": ["A) At a company meeting", "B) At a worker orientation", "C) At a business conference", "D) At a job interview"],
+        "correctAnswer": "B) At a worker orientation",
+        "teacherCorrection": "The speaker, Fay Hernandez, is addressing new or current employees, likely at an orientation session, discussing company policies and structure.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "93. What have listeners already received?",
+        "choices": ["A) An information packet", "B) A building guide", "C) A copy of a contract", "D) A corporate letterhead"],
+        "correctAnswer": "A) An information packet",
+        "teacherCorrection": "Listeners have already received an information packet with details about company policies and workplace guidelines, as mentioned by the speaker.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "94. What will listeners do in the afternoon?",
+        "choices": ["A) Take a tour of the facilities", "B) Visit the HR division office", "C) Hear from a speaker about resources", "D) Learn about the corporate structure"],
+        "correctAnswer": "A) Take a tour of the facilities",
+        "teacherCorrection": "In the afternoon, listeners will go for a walk around the office to see the facilities, as indicated by Fay Hernandez in her talk.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Talks",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "95. What department does the speaker work for?",
+        "choices": ["A) Personnel", "B) Administration", "C) Information Technology", "D) Marketing"],
+        "correctAnswer": "C) Information Technology",
+        "teacherCorrection": "The speaker, Didier Dion, mentions issues specific to IT projects and workloads, indicating he is from the Information Technology department.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Telephone Messages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "96. What will happen next month?",
+        "choices": ["A) A new product will be launched", "B) The ordering system will be changed", "C) The IT service will be contracted out", "D) A website will be developed"],
+        "correctAnswer": "B) The ordering system will be changed",
+        "teacherCorrection": "Next month, the new online ordering service is scheduled to launch, involving significant changes to the existing system.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Telephone Messages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "97. What does the speaker need help with?",
+        "choices": ["A) Retaining overworked staff", "B) Arranging the work schedule", "C) Handling financial problems", "D) Hiring temporary workers"],
+        "correctAnswer": "D) Hiring temporary workers",
+        "teacherCorrection": "Didier Dion explains the need for additional staff to manage workload and meet project deadlines, specifically requesting permission to hire temporary workers.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Telephone Messages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "98. What type of business is making this announcement?",
+        "choices": ["A) An art supply store", "B) A camera shop", "C) A photography studio", "D) A picture frame maker"],
+        "correctAnswer": "B) A camera shop",
+        "teacherCorrection": "Big Smile Cameras, which is hosting a photography competition, is a business focused on cameras, thus classified as a camera shop.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Announcements",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "99. What will prize-winners receive?",
+        "choices": ["A) Money", "B) Store vouchers", "C) Free merchandise", "D) Professional lessons"],
+        "correctAnswer": "A) Money",
+        "teacherCorrection": "The announcement specifies that cash prizes will be awarded for the Most Original Photo, the Cutest Photo, and the Overall Best Photo in the competition.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Announcements",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "100. According to the speaker, what can be found on the website?",
+        "choices": ["A) Competition rules", "B) An event schedule", "C) Entry details", "D) Previous winning photos"],
+        "correctAnswer": "C) Entry details",
+        "teacherCorrection": "The website mentioned in the announcement offers details on how to register and enter the photography competition, indicating that entry details are provided.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Announcements",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "101. Employees must let ______ supervisors know before taking time off work.",
+        "choices": ["A) they", "B) them", "C) their", "D) theirs"],
+        "correctAnswer": "C) their",
+        "teacherCorrection": "The correct answer is 'C) their'. In English, possessive pronouns like 'their' are used to show ownership or belonging. In this sentence, 'their' correctly indicates that employees need to inform their own supervisors.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "102. From July 1, it will be Mr. Ishibashi’s ______ to review all corporate contracts.",
+        "choices": ["A) symptom", "B) responsibility", "C) quality", "D) discipline"],
+        "correctAnswer": "B) responsibility",
+        "teacherCorrection": "The correct answer is 'B) responsibility'. In this context, 'responsibility' fits grammatically and semantically, indicating that it will be Mr. Ishibashi's duty or obligation to review all corporate contracts.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "103. We are pleased to offer you a sample copy of our ______ magazine, Office Innovations.",
+        "choices": ["A) popularly", "B) popularity", "C) popular", "D) popularize"],
+        "correctAnswer": "C) popular",
+        "teacherCorrection": "The correct answer is 'C) popular'. Here, 'popular' is the appropriate adjective to describe the magazine. It denotes that the magazine is well-liked or widely accepted, fitting the context.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "104. Your security badge will be activated ______ the beginning of the work day tomorrow.",
+        "choices": ["A) by", "B) under", "C) onto", "D) as"],
+        "correctAnswer": "A) by",
+        "teacherCorrection": "The correct answer is 'A) by'. 'By' is the appropriate preposition to indicate the time when an action will occur. In this case, it denotes that the security badge will be activated before the beginning of the workday tomorrow.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "105. One of Mr. Oh’s primary duties is the ______ of the corporate food service.",
+        "choices": ["A) manage", "B) manages", "C) manageable", "D) management"],
+        "correctAnswer": "D) management",
+        "teacherCorrection": "The correct answer is 'D) management'. 'Management' is the appropriate noun form to describe Mr. Oh's duty. It indicates that he oversees or administers the corporate food service.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "106. A majority of customers rated Sasaki mobile phones as ______ good or excellent.",
+        "choices": ["A) either", "B) both", "C) although", "D) whether"],
+        "correctAnswer": "A) either",
+        "teacherCorrection": "The correct answer is 'A) either'. 'Either' is used to indicate one or the other of two things. In this sentence, it correctly implies that customers rated Sasaki mobile phones as either good or excellent, but not both simultaneously.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "107. The committee objected ______ to several of the conditions listed in the initial contract.",
+        "choices": ["A) badly", "B) safely", "C) strongly", "D) falsely"],
+        "correctAnswer": "C) strongly",
+        "teacherCorrection": "The correct answer is 'C) strongly'. 'Strongly' is the appropriate adverb to describe the intensity of the committee's objection. It indicates that the objection was firm or vehement.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "108. All interns in the marketing department are encouraged to attend the upcoming ______.",
+        "choices": ["A) subject", "B) division", "C) workshop", "D) plan"],
+        "correctAnswer": "C) workshop",
+        "teacherCorrection": "The correct answer is 'C) workshop'. In this context, a 'workshop' refers to a gathering for intensive study or training in a particular subject or skill. It's the most suitable option for interns to attend.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "109. Fewer than ten firms in the country have received the Barstow Award ______ excellence in customer service.",
+        "choices": ["A) to", "B) for", "C) at", "D) with"],
+        "correctAnswer": "B) for",
+        "teacherCorrection": "The correct answer is 'B) for'. The preposition 'for' is used to indicate the purpose or reason for receiving something. In this context, it appropriately signifies that the Barstow Award is given to firms for excellence in customer service.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "110. ______ of the shipment should be expected within ten days.",
+        "choices": ["A) Receive", "B) Received", "C) Receivable", "D) Receipt"],
+        "correctAnswer": "D) Receipt",
+        "teacherCorrection": "The correct answer is 'D) Receipt'. In this sentence, the word 'Receipt' functions as the subject.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "111. Mi-Sun Park’s artwork ______ combines classical elements with modern materials and techniques.",
+        "choices": ["A) skill", "B) skilled", "C) skillful", "D) skillfully"],
+        "correctAnswer": "D) skillfully",
+        "teacherCorrection": "The correct answer is 'D) skillfully'. 'Skillfully' is the appropriate adjective form to describe Mi-Sun Park's artwork. It means having or showing skill, fitting the context of combining classical elements with modern materials and techniques.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "112. Tanner Publications is seeking a copy editor with previous experience ______ excellent communication skills.",
+        "choices": ["A) such", "B) but", "C) and", "D) unless"],
+        "correctAnswer": "C) and",
+        "teacherCorrection": "The correct answer is 'C) and'. 'And' is the coordinating conjunction needed to connect two elements in the sentence, indicating that Tanner Publications is seeking a copy editor with both previous experience and excellent communication skills.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "113. Ms. Reston and Mr. Parnthong were two of the senior partners ______ visited the clients last week.",
+        "choices": ["A) who", "B) when", "C) what", "D) whose"],
+        "correctAnswer": "A) who",
+        "teacherCorrection": "The correct answer is 'A) who'. 'Who' is a relative pronoun used to introduce a clause identifying the senior partners. It correctly specifies the subject of the clause.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "114. Silveira & Ogawa Corporation’s successful new line of cookware has helped to boost the company’s ______ performance this quarter.",
+        "choices": ["A) believable", "B) interested", "C) available", "D) financial"],
+        "correctAnswer": "D) financial",
+        "teacherCorrection": "The correct answer is 'D) financial'. 'Financial' is the appropriate adjective to describe the company's performance, relating to finances or monetary matters. It correctly signifies the aspect of performance being discussed in the sentence.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "115. Before ______ the envelope, please be sure you have enclosed all of the documents listed in your orientation packet.",
+        "choices": ["A) seal", "B) sealing", "C) is sealed", "D) was sealed"],
+        "correctAnswer": "B) sealing",
+        "teacherCorrection": "The correct answer is 'B) sealing'. 'Sealing' is the gerund form of the verb 'seal', used as the object of the preposition 'before'. It correctly indicates the action that should occur before a specified event.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "116. Ms. Gupta has earned the ______ of her colleagues in the law firm and of the clients she represents.",
+        "choices": ["A) respect", "B) respectable", "C) respectably", "D) respecting"],
+        "correctAnswer": "A) respect",
+        "teacherCorrection": "The correct answer is 'A) respect'. 'Respect' is the noun form indicating admiration or esteem. It correctly describes what Ms. Gupta has earned from her colleagues in the law firm and the clients she represents.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "117. The CEO of Argall Enterprises is expected to ______ a statement to the press later this week.",
+        "choices": ["A) act", "B) issue", "C) speak", "D) reply"],
+        "correctAnswer": "B) issue",
+        "teacherCorrection": "The correct answer is 'B) issue'. In this context, 'issue' means to release or distribute officially, such as a statement to the press. It appropriately fits the action expected from the CEO of Argall Enterprises.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "118. Kohler Gas has been the area’s most ______ energy supplier for more than twenty years.",
+        "choices": ["A) relying", "B) reliable", "C) reliability", "D) reliably"],
+        "correctAnswer": "B) reliable",
+        "teacherCorrection": "The correct answer is 'B) reliable'. 'Reliable' is the appropriate adjective to describe the energy supplier, indicating that it can be trusted or depended on. It fits the context of being the most dependable supplier in the area.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "119. A hotel shuttle will be available, but you are also welcome to arrange for your ______ transportation to the conference.",
+        "choices": ["A) any", "B) directly", "C) besides", "D) own"],
+        "correctAnswer": "D) own",
+        "teacherCorrection": "The correct answer is 'D) own'. 'Own' is the possessive pronoun indicating personal possession. It correctly suggests that attendees have the option to arrange for their own transportation to the conference.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "120. The advertising campaign for the new Cool Fizz soft drink will feature flavor ______ price.",
+        "choices": ["A) rather than", "B) in the event of", "C) except for", "D) as for"],
+        "correctAnswer": "A) rather than",
+        "teacherCorrection": "The correct answer is 'A) rather than'. 'Rather than' is a conjunction used to introduce the preferred or chosen alternative in a comparison. It appropriately indicates that the advertising campaign will focus on flavor instead of price for the new Cool Fizz soft drink.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "121. Many of the restaurants in the village open only on weekends ______ the tourist season is over.",
+        "choices": ["A) even", "B) once", "C) so", "D) always"],
+        "correctAnswer": "B) once",
+        "teacherCorrection": "The correct answer is 'B) once'. In this context, 'once' is used to indicate 'when' or 'after'. It correctly connects the opening of the restaurants with the condition of the tourist season being over.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "122. Members are a vital part of the Global Musicians’ Association, and finding ways to increase membership should be a high ______.",
+        "choices": ["A) basis", "B) force", "C) result", "D) priority"],
+        "correctAnswer": "D) priority",
+        "teacherCorrection": "The correct answer is 'D) priority'. 'Priority' is the noun indicating something given or meriting attention before competing alternatives. It correctly emphasizes the importance of increasing membership as a top concern.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "123. After ______ failing to win customer support, Tykon’s upgraded software program has been withdrawn from the market.",
+        "choices": ["A) repeat", "B) repetition", "C) repeated", "D) repeatedly"],
+        "correctAnswer": "D) repeatedly",
+        "teacherCorrection": "The correct answer is 'D) repeatedly'. 'D) repeatedly' is the adjective form indicating that the action of failing occurred more than once. It correctly describes the pattern of failure experienced by Tykon's upgraded software program.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "124. Ms. Nwokolo is the ideal leader for the project because she has ______ worked in business management.",
+        "choices": ["A) yet", "B) especially", "C) previously", "D) ever"],
+        "correctAnswer": "C) previously",
+        "teacherCorrection": "The correct answer is 'C) previously'. 'Previously' is the adverb indicating that Ms. Nwokolo has had experience in business management before. It correctly supports why she is considered the ideal leader for the project.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "125. Because the teams in Beijing and Lisbon must work together closely, e-mail is the ______ method of communication for this project.",
+        "choices": ["A) prefer", "B) preferred", "C) preferably", "D) preference"],
+        "correctAnswer": "B) preferred",
+        "teacherCorrection": "The correct answer is 'B) preferred'. 'Preferred' is the adjective indicating the method of communication that is favored or recommended. It correctly suggests that e-mail is the chosen or favored method for the project.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "126. The commission will review the designs for the new industrial center and ______ one to submit to the board of directors.",
+        "choices": ["A) agree", "B) operate", "C) apply", "D) choose"],
+        "correctAnswer": "D) choose",
+        "teacherCorrection": "The correct answer is 'D) choose'. 'Choose' is the verb indicating the action of selecting one of the designs. It correctly describes what the commission will do with the designs for the new industrial center.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "127. According to industry experts, it is very ______ that Aakster, Inc., and Dember Technologies will announce plans to merge in early May.",
+        "choices": ["A) likely", "B) confident", "C) advisable", "D) potential"],
+        "correctAnswer": "A) likely",
+        "teacherCorrection": "The correct answer is 'A) likely'. 'Likely' is the adjective indicating a high probability or chance of something happening. It correctly describes the expectation of industry experts regarding the announcement of plans to merge.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "128. Questions about the exhibit should be directed to Mr. Stanley, the museum’s leading ______ on eighteenth-century art.",
+        "choices": ["A) authority", "B) station", "C) advantage", "D) example"],
+        "correctAnswer": "A) authority",
+        "teacherCorrection": "The correct answer is 'A) authority'. 'Authority' is the noun indicating someone with extensive knowledge or expertise in a particular subject. It correctly identifies Mr. Stanley as the person to consult regarding questions about the exhibit.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "129. Ms. Baxter and her former colleagues at the New York branch ______ in regular contact with one another.",
+        "choices": ["A) remain", "B) remains", "C) remaining", "D) has remained"],
+        "correctAnswer": "A) remain",
+        "teacherCorrection": "The correct answer is 'A) remain'. 'Remain' is the verb indicating the action performed by the subject 'Ms. Baxter and her former colleagues'. It correctly agrees with the plural subject, indicating that they are in regular contact with one another.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "130. Currently, the most ______ task is to finish designing the new corporate logo since no new publications can be printed without it.",
+        "choices": ["A) forceful", "B) eligible", "C) pressing", "D) decisive"],
+        "correctAnswer": "C) pressing",
+        "teacherCorrection": "The correct answer is 'C) pressing'. 'Pressing' is the adjective indicating that the task is urgent or demanding immediate attention. It correctly describes the importance and urgency of finishing the new corporate logo design.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "131. Tickets for the first event _____ in the middle of June.",
+        "choices": [
+          "A) mails",
+          "B) mailing",
+          "C) were mailed",
+          "D) will be mailed"
+        ],
+        "correctAnswer": "D) will be mailed",
+        "teacherCorrection": "The correct answer is 'D) will be mailed'. This is the future passive form that is grammatically correct to indicate the tickets are scheduled to be mailed at a future date.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "e1q131134.png",
+        "audioPath": ""
+      },
+      {
+        "text": "132. The Gardner Friends Card, which entitles you to _____ such as parking at reduced rates, replacement of lost tickets, and discounts at area restaurants.",
+        "choices": [
+          "A) incomes",
+          "B) gains",
+          "C) benefits",
+          "D) accounts"
+        ],
+        "correctAnswer": "C) benefits",
+        "teacherCorrection": "The correct answer is 'C) benefits'. The card offers various advantages or 'benefits' such as parking discounts and restaurant deals.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "133. So that we can provide you with regular electronic updates, please make sure we have ______ e-mail address.",
+        "choices": [
+          "A) you",
+          "B) your",
+          "C) yours",
+          "D) yourself"
+        ],
+        "correctAnswer": "B) your",
+        "teacherCorrection": "The correct answer is 'B) your'. 'Your' is the possessive adjective needed to correctly complete the sentence structure.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "134. ______.",
+        "choices": [
+          "A) Thank you for your e-mail of July 31.",
+          "B) You can send it to us at GT@s93.com.",
+          "C) This includes a café right next to the theater.",
+          "D) We have found this performance to be very popular."
+        ],
+        "correctAnswer": "B) You can send it to us at GT@s93.com.",
+        "teacherCorrection": "The correct answer is 'B) You can send it to us at GT@s93.com.'. This choice directly relates to the request for an e-mail address, providing a logical continuation of the request.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "135. As a reviewer, you ______ with one free copy of the book to be reviewed.",
+        "choices": [
+          "A) were presenting",
+          "B) to present",
+          "C) would be presented",
+          "D) have presented"
+        ],
+        "correctAnswer": "C) would be presented",
+        "teacherCorrection": "The correct answer is 'C) would be presented'. This form correctly uses the conditional passive voice to indicate that reviewers will receive a book.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "e1q135138.png",
+        "audioPath": ""
+      },
+      {
+        "text": "136. ______, the reviewer’s name and professional affiliation appear in print alongside any review that is published.",
+        "choices": [
+          "A) Specifically",
+          "B) However",
+          "C) Otherwise",
+          "D) Additionally"
+        ],
+        "correctAnswer": "D) Additionally",
+        "teacherCorrection": "The correct answer is 'D) Additionally'. This adverb introduces additional information about what is included alongside the review in print.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "137. ______ reviews are approximately 600-800 words in length, though some may be longer.",
+        "choices": [
+          "A) Most",
+          "B) All",
+          "C) Very",
+          "D) More"
+        ],
+        "correctAnswer": "A) Most",
+        "teacherCorrection": "The correct answer is 'A) Most'. It properly quantifies that the majority of reviews, not necessarily all, adhere to the specified word count range.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "138. ______",
+        "choices": [
+          "A) More detailed guidelines for reviewers are available on our website.",
+          "B) They were referred to us by a colleague at your place of work.",
+          "C) We are sorry we are not able to do so at this time.",
+          "D) We hope this place."
+        ],
+        "correctAnswer": "B) They were referred to us by a colleague at your place of work.",
+        "teacherCorrection": "The correct answer is 'B) They were referred to us by a colleague at your place of work.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "139. Museum employees are eligible to ______ this series, which will culminate in a guided tour of a number of Renaissance masterpieces in the McKellen Gallery.",
+        "choices": [
+          "A) offer",
+          "B) attend",
+          "C) lead",
+          "D) apply"
+        ],
+        "correctAnswer": "B) attend",
+        "teacherCorrection": "The correct answer is 'B) attend'. This choice correctly completes the sentence by stating that employees can attend the series of lectures.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "e1q139142.png",
+        "audioPath": ""
+      },
+      {
+        "text": "140. There is no charge for museum staff, but all participants must register in advance, as there is ______ seating.",
+        "choices": [
+          "A) limit",
+          "B) limits",
+          "C) limited",
+          "D) to limit"
+        ],
+        "correctAnswer": "C) limited",
+        "teacherCorrection": "The correct answer is 'C) limited'. 'Limited' fits properly to describe the availability of seating, indicating that it is not unlimited.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "141. Stop by my office to sign up today for this ______ chance to hear Dr. Byers speak.",
+        "choices": [
+          "A) exceptional",
+          "B) costly",
+          "C) thoughtful",
+          "D) required"
+        ],
+        "correctAnswer": "A) exceptional",
+        "teacherCorrection": "The correct answer is 'A) exceptional'. This word describes the unique or special opportunity to hear Dr. Byers speak.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "142. This is an opportunity you will not want to ______.",
+        "choices": [
+          "A) speak",
+          "B) attend",
+          "C) limit",
+          "D) miss"
+        ],
+        "correctAnswer": "D) miss",
+        "teacherCorrection": "The correct answer is 'D) miss'. This phrase completes the sentence by suggesting it's an opportunity too good to forego.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "143. If you _____ before July 21, we will add one extra month to your subscription.",
+        "choices": ["A) renew", "B) renewing", "C) had renewed", "D) will be renewed"],
+        "correctAnswer": "A) renew",
+        "teacherCorrection": "",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "e1q143146.png",
+        "audioPath": ""
+      },
+      {
+        "text": "144. There is no charge for museum staff, but all participants must register in advance, as there is _____ seating.",
+        "choices": ["A) limit", "B) limits", "C) limited", "D) to limit"],
+        "correctAnswer": "C) limited",
+        "teacherCorrection": "",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "145. You do not need to enclose your _____ at this time. We will send you an invoice, and you can send your money later.",
+        "choices": ["A) rent", "B) bill", "C) receipt", "D) payment"],
+        "correctAnswer": "D) payment",
+        "teacherCorrection": "",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "146. So mail the card today. You will not miss a _____ copy of Financial News Weekly, and you will receive an extra month for free!",
+        "choices": ["A) single", "B) recognized", "C) treatable", "D) lonely"],
+        "correctAnswer": "A) single",
+        "teacherCorrection": "",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Text-Completion",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "147. What does Mr. Chandran ask Mr. Seville to do?",
+        "choices": ["A) Join him on a business trip", "B) Help him with a translation", "C) Change some flight plans", "D) Set up some meetings"],
+        "correctAnswer": "C) Change some flight plans",
+        "teacherCorrection": "",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q147448.png",
+        "audioPath": ""
+      },
+      {
+        "text": "148. At 4:37 A.M., what does Mr. Seville mean when he writes, 'I can try'?",
+        "choices": ["A) He wants to learn how to help.", "B) He is unsure that he will be successful.", "C) He has other work to finish today.", "D) He is happy to receive an invitation."],
+        "correctAnswer": "B) He is unsure that he will be successful.",
+        "teacherCorrection": "If he calls now, the airline may not be open.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "149. What is the purpose of the advertisement?",
+        "choices": ["A) To invite customers to a grand opening of a shop", "B) To introduce a new service offered at a store", "C) To announce the anniversary of a business", "D) To promote a sale on selected items"],
+        "correctAnswer": "B) To introduce a new service offered at a store",
+        "teacherCorrection": "This new sotre is 'now open'.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q149150.png",
+        "audioPath": ""
+      },
+      {
+        "text": "150. When does the store close on Sunday?",
+        "choices": ["A) At 7:00 P.M.", "B) At 8:00 P.M.", "C) At 9:00 P.M.", "D) At 9:30 P.M."],
+        "correctAnswer": "A) At 7:00 P.M.",
+        "teacherCorrection": "The correct answer is 'A) At 7:00 P.M.'. The advertisement clearly lists the store hours for Sunday, closing at 7:00 P.M., as part of the provided information about Business World's operations.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "151. Why did Ms. Lang call Mr. Matsumoto?",
+        "choices": [
+          "A) To reschedule an appointment with him",
+          "B) To ask if he will be able to meet a deadline",
+          "C) To inquire where a meeting will take place",
+          "D) To request that he send a new copy of a contract"
+        ],
+        "correctAnswer": "A) To reschedule an appointment with him",
+        "teacherCorrection": "Ms. Lang called Mr. Matsumoto to reschedule an appointment with him, as indicated by her desire to arrange a new meeting time.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q151152.png",
+        "audioPath": ""
+      },
+      {
+        "text": "152. What will Ms. Lang probably do?",
+        "choices": [
+          "A) See Mr. Matsumoto on Monday",
+          "B) Call Mr. Matsumoto again this afternoon",
+          "C) Contact a representative of C&P Accounting",
+          "D) Make a reservation for a lunch meeting"
+        ],
+        "correctAnswer": "B) Call Mr. Matsumoto again this afternoon",
+        "teacherCorrection": "Ms. Lang will probably call Mr. Matsumoto again this afternoon, as she stated she would try to contact him later in the day.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "153. Where will the employees who are hired for the advertised positions work?",
+        "choices": [
+          "A) At an amusement park",
+          "B) At a jewelry shop",
+          "C) On a cruise ship",
+          "D) In a factory"
+        ],
+        "correctAnswer": "C) On a cruise ship",
+        "teacherCorrection": "The employees hired through the advertisement will work on a cruise ship, as mentioned in the advertisement by Silver Poseidon Cruises.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q153155.png",
+        "audioPath": ""
+      },
+      {
+        "text": "154. What benefit is NOT mentioned in the advertisement?",
+        "choices": [
+          "A) Time off for holidays",
+          "B) Free travel",
+          "C) Career advancement opportunities",
+          "D) Paid training programs"
+        ],
+        "correctAnswer": "A) Time off for holidays",
+        "teacherCorrection": "The advertisement does not mention time off for holidays as a benefit. It lists free travel, career advancement, and paid training as benefits.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "155. How are interested people instructed to register?",
+        "choices": [
+          "A) By visiting the corporate office",
+          "B) By calling Ms. Ruiz",
+          "C) By sending an e-mail",
+          "D) By going to the website"
+        ],
+        "correctAnswer": "D) By going to the website",
+        "teacherCorrection": "Interested individuals are instructed to register by visiting the website, as specified in the advertisement.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "156. Who most likely is Richard Donaldson?",
+        "choices": [
+          "A) A tour participant",
+          "B) A group leader",
+          "C) A travel agent",
+          "D) A personal accountant"
+        ],
+        "correctAnswer": "C) A travel agent",
+        "teacherCorrection": "Richard Donaldson is most likely a travel agent, as he handles client registrations and payments for trips.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q156157.png",
+        "audioPath": ""
+      },
+      {
+        "text": "157. What is indicated about Ms. Umaga in the letter?",
+        "choices": [
+          "A) She intends to cancel her trip.",
+          "B) She has changed her trip itinerary.",
+          "C) She must correct her registration form.",
+          "D) She has paid for part of the cost of her trip."
+        ],
+        "correctAnswer": "D) She has paid for part of the cost of her trip.",
+        "teacherCorrection": "The letter indicates that Ms. Umaga has made a payment toward her trip, as it mentions receiving her registration form and deposit.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "158. What most likely is Mr. Gallagher's job?",
+        "choices": [
+          "A) Banker",
+          "B) Librarian",
+          "C) Journalist",
+          "D) Publisher"
+        ],
+        "correctAnswer": "C) Journalist",
+        "teacherCorrection": "Mr. Gallagher is most likely a journalist, as the context of writing a book on banking and finance suggests a profession related to research and reporting.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q158160.png",
+        "audioPath": ""
+      },
+      {
+        "text": "159. What does the reviewer NOT mention about the book?",
+        "choices": [
+          "A) It is very long.",
+          "B) It is entertaining.",
+          "C) It describes people from the past.",
+          "D) It is well researched."
+        ],
+        "correctAnswer": "A) It is very long.",
+        "teacherCorrection": "The reviewer does not mention that the book is very long. The review highlights that the book is entertaining, well-researched, and discusses historical figures.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "160. What does the reviewer suggest?",
+        "choices": [
+          "A) Most people are not interested in history.",
+          "B) A follow-up volume will soon be available.",
+          "C) Mr. Gallagher is an experienced lecturer.",
+          "D) The book will appeal to different groups of people."
+        ],
+        "correctAnswer": "D) The book will appeal to different groups of people.",
+        "teacherCorrection": "The reviewer suggests that the book will appeal to different groups of people, emphasizing its broad appeal even to those not usually interested in the subject matter.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "161. What is the purpose of the article?",
+        "choices": [
+          "A) To announce the merger of two airlines",
+          "B) To report on a new business agreement",
+          "C) To inform investors of a change in project plans",
+          "D) To describe recent renovations at an airport"
+        ],
+        "correctAnswer": "B) To report on a new business agreement",
+        "teacherCorrection": "The article's purpose is to report on Star Airways' business agreement with SkyStream to change their fleet of jets. This is a business agreement to expand their jet fleet.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q161163.png",
+        "audioPath": ""
+      },
+      {
+        "text": "162. How long is the change expected to take?",
+        "choices": [
+          "A) Three years",
+          "B) Five years",
+          "C) Ten years",
+          "D) Seven years"
+        ],
+        "correctAnswer": "C) Ten years",
+        "teacherCorrection": "The article indicates the changeover to replace the existing jets with new ones is expected to take ten years.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "163. What is NOT reported as a goal of Star Airways?",
+        "choices": [
+          "A) To relocate its international headquarters",
+          "B) To be among the first to use a new aircraft",
+          "C) To replace the older planes in its fleet",
+          "D) To increase its number of flight destinations"
+        ],
+        "correctAnswer": "A) To relocate its international headquarters",
+        "teacherCorrection": "The article does not mention that Star Airways aims to relocate its headquarters.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "164. Why was the e-mail sent?",
+        "choices": [
+          "A) To tell of a new payment policy",
+          "B) To report a problem with a payment",
+          "C) To inquire about customer satisfaction",
+          "D) To explain how to set up an account"
+        ],
+        "correctAnswer": "B) To report a problem with a payment",
+        "teacherCorrection": "The e-mail from Rosling Gardens was sent to inform Mr. Kager about difficulties processing his credit card payment and to request that he review his payment information.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q164167.png",
+        "audioPath": ""
+      },
+      {
+        "text": "165. What is indicated about Mr. Kager's order?",
+        "choices": [
+          "A) It has been canceled.",
+          "B) Some of the items are unavailable.",
+          "C) It has been prepared for shipment.",
+          "D) It includes an incorrect address."
+        ],
+        "correctAnswer": "C) It has been prepared for shipment.",
+        "teacherCorrection": "The correct answer is 'C) It has been prepared for shipment.' The email confirms that Mr. Kager's order is ready to ship as soon as the payment issue is resolved.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Correspondence",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "166. What is Mr. Kager asked to avoid doing?",
+        "choices": [
+          "A) Posting a notification",
+          "B) Changing a shipping method",
+          "C) Resubmitting an order",
+          "D) Replying to the e-mail"
+        ],
+        "correctAnswer": "D) Replying to the e-mail",
+        "teacherCorrection": "Mr. Kager is instructed not to reply to the e-mail as it was sent from a notification-only address.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'Once there, please provide the number of the new credit card.'",
+        "choices": [
+          "A) [1]",
+          "B) [2]",
+          "C) [3]",
+          "D) [4]"
+        ],
+        "correctAnswer": "C) [3]",
+        "teacherCorrection": "It best belongs where the payment method selection is mentioned.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "168. What is the article mainly about?",
+        "choices": [
+          "A) The construction of a new museum",
+          "B) The restoration of a historic landmark",
+          "C) The filming of an upcoming movie",
+          "D) The election of a local official"
+        ],
+        "correctAnswer": "B) The restoration of a historic landmark",
+        "teacherCorrection": "The article discusses the approved plans for the restoration of the Marsh Point Lighthouse, a historic landmark.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q168171.png",
+        "audioPath": ""
+      },
+      {
+        "text": "169. Who is Stephanie Landsbury?",
+        "choices": [
+          "A) A chief engineer",
+          "B) A bank official",
+          "C) A historical society member",
+          "D) A tourist board spokesperson"
+        ],
+        "correctAnswer": "D) A tourist board spokesperson",
+        "teacherCorrection": "Stephanie Landsbury is mentioned as the president of the Marsh Point Historical Society in the article about the lighthouse restoration.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "170. What is suggested about the lighthouse?",
+        "choices": [
+          "A) It has been in operation for nearly two centuries",
+          "B) It is open only to members of the historical society",
+          "C) It was constructed for a movie set",
+          "D) It is in good condition"
+        ],
+        "correctAnswer": "A) It has been in operation for nearly two centuries",
+        "teacherCorrection": "The article mentions that the lighthouse has been an aid to navigation for almost 200 years, suggesting it has been in operation for nearly two centuries.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'The lighthouse is also important for cultural reasons.",
+        "choices": [
+          "A) [1]",
+          "B) [2]",
+          "C) [3]",
+          "D) [4]"
+        ],
+        "correctAnswer": "B) [2]",
+        "teacherCorrection": "The sentence best belongs there because it is mentioned that the lighthouse has been there for 200 years.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "172. At 10:22 A.M., why does Mr. Dubiel write, 'Here it is'?",
+        "choices": [
+          "A) He found Ms. Myers' booking information.",
+          "B) He located the Airline Rentals kiosk.",
+          "C) He is marking the airport's location on a map.",
+          "D) He is telling Ms. Myers where the van can find them."
+        ],
+        "correctAnswer": "A) He found Ms. Myers' booking information.",
+        "teacherCorrection": "Let me find your reservation. Mr. Dubiel responds with 'Here it is' as he finds the reservation.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q172175.png",
+        "audioPath": ""
+      },
+      {
+        "text": "173. What can Ms. Dubiel do when she gets to the kiosk?",
+        "choices": [
+          "A) Pay for her reservation",
+          "B) Take a bus to the terminal",
+          "C) Ask to speak to Mr. Dubiel",
+          "D) Pick up the key to her vehicle"
+        ],
+        "correctAnswer": "D) Pick up the key to her vehicle",
+        "teacherCorrection": "'Go to the Allaire Rentals kiosk there and one of our representatives will give you the key.' from Jared Dubiel at 10:22 AM",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "174. What is suggested about Ms. Lindquist?",
+        "choices": [
+          "A) She is traveling during a holiday.",
+          "B) She is located at Boa Vista Airport.",
+          "C) She wants to change her travel plans.",
+          "D) She wants to reserve a car for a week."
+        ],
+        "correctAnswer": "B) She is located at Boa Vista Airport.",
+        "teacherCorrection": "As the car is being rented at Boa Vista and Ms. Lindquist is the one looking for vehicles to give the customers, she must be at Boa Vista Airport.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "175. What vehicle will Ms. Myers rent?",
+        "choices": [
+          "A) A compact car",
+          "B) A mid-size car",
+          "C) A full-size car",
+          "D) A small van"
+        ],
+        "correctAnswer": "C) A full-size car",
+        "teacherCorrection": "Ms. Myers ultimately decides on renting a full-size car after considering it might offer more comfort and space for her needs, as mentioned in the conversation.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "176. What is the subject of Citywatch Magazine?",
+        "choices": [
+          "A) Sydney",
+          "B) Amsterdam",
+          "C) Chicago",
+          "D) Taipei"
+        ],
+        "correctAnswer": "C) Chicago",
+        "teacherCorrection": "The correct answer is 'C) Chicago'. Citywatch Magazine is featuring Wu's interview as part of their series titled 'Noteworthy People in Our City', and she describes her daily life in downtown Chicago.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q176180.png",
+        "audioPath": ""
+      },
+      {
+        "text": "177. What is the purpose of the article?",
+        "choices": [
+          "A) To profile a local businessperson",
+          "B) To report on an increase in tourism",
+          "C) To describe a local business event",
+          "D) To discuss the opening of a new coffee shop"
+        ],
+        "correctAnswer": "A) To profile a local businessperson",
+        "teacherCorrection": "The correct answer is 'A) To profile a local businessperson'. The article profiles Mai Wu, a notable resident and vice president of Wilkerson Beverage Company, detailing her daily routine and professional background.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "178. What is Ms. Wu's current position?",
+        "choices": [
+          "A) Café shop owner",
+          "B) Marketing director",
+          "C) Business journalist",
+          "D) Corporate executive"
+        ],
+        "correctAnswer": "D) Corporate executive",
+        "teacherCorrection": "'Recently appointed vice president of Wilkerson Beverage Company', line 6 on the article. Vice president is a high-ranking corporate executive position.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "179. What is indicated about the Wilkinson Beverage Company?",
+        "choices": [
+          "A) It plans to market new products in December.",
+          "B) It operates offices in multiple cities.",
+          "C) It has an opening for a vice president.",
+          "D) It produces a line of coffee drinks."
+        ],
+        "correctAnswer": "B) It operates offices in multiple cities.",
+        "teacherCorrection": "The correct answer is 'B) It operates offices in multiple cities.' The article discusses Ms. Wu's transfers between offices in Amsterdam, Chicago, and other cities.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "180. What does Ms. Wu say about her job?",
+        "choices": [
+          "A) It is temporary.",
+          "B) It is challenging.",
+          "C) It requires a lot of travel.",
+          "D) It pays well."
+        ],
+        "correctAnswer": "B) It is challenging.",
+        "teacherCorrection": "The correct answer is 'B) It is challenging.' Ms. Wu comments on the demanding nature of her job, including long hours and high responsibility.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "181. What is the subject of the press release?",
+        "choices": [
+          "A) An increase in car advertisements",
+          "B) A decline in consumer confidence",
+          "C) The building of a car parking garage",
+          "D) The planned opening of a new factory"
+        ],
+        "correctAnswer": "D) The planned opening of a new factory",
+        "teacherCorrection": "The correct answer is 'D) The planned opening of a new factory'. The press release discusses Jupiter Corporation's announcement of opening a new automotive manufacturing plant in Daejeon.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q181185.png",
+        "audioPath": ""
+      },
+      {
+        "text": "182. What is indicated about Jupiter Corporation?",
+        "choices": [
+          "A) It will release a new car model next year.",
+          "B) Its headquarters are in Seoul.",
+          "C) It has received several customer complaints.",
+          "D) Its sales have remained steady."
+        ],
+        "correctAnswer": "B) Its headquarters are in Seoul.",
+        "teacherCorrection": "The correct answer is 'B) Its headquarters are in Seoul'. The press release notes that Jupiter Corporation, based in Seoul, is planning significant expansions.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "183. Who is Ja-Hoon Lee?",
+        "choices": [
+          "A) A corporate spokesperson",
+          "B) A factory employee",
+          "C) An advertising manager",
+          "D) An automobile salesperson"
+        ],
+        "correctAnswer": "A) A corporate spokesperson",
+        "teacherCorrection": "The correct answer is 'A) A corporate spokesperson'. Ja-Hoon Lee is mentioned in the context of being a spokesperson for Jupiter Corporation.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "184. What will Robin Bertolli probably send to Ja-Hoon Lee?",
+        "choices": [
+          "A) A schedule for the grand opening of a factory",
+          "B) A report of the company's quarterly sales",
+          "C) A summary of an advertising campaign",
+          "D) A document containing construction plans"
+        ],
+        "correctAnswer": "C) A summary of an advertising campaign",
+        "teacherCorrection": "'I would like to brief you on the plan before your next press conference', line 5 on the email",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "185. When does Robin Bertolli expect to see Ja-Hoon Lee?",
+        "choices": [
+          "A) In February",
+          "B) In March",
+          "C) In June",
+          "D) In July"
+        ],
+        "correctAnswer": "D) In July",
+        "teacherCorrection": "The correct answer is 'D) In July'. This aligns with the planned timing for the grand opening celebration of the new factory, as mentioned in the press release.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "186. What is the purpose of the first e-mail?",
+        "choices": [
+          "A) To reserve a table at a hotel",
+          "B) To request about hotel rates",
+          "C) To confirm a hotel reservation",
+          "D) To inform a hotel employee of a problem"
+        ],
+        "correctAnswer": "C) To confirm a hotel reservation",
+        "teacherCorrection": "The first e-mail is intended to confirm Klara Wagner's reservation at the Persimmon Royal Hotel, outlining details of her stay and offering further assistance.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q186190.png",
+        "audioPath": ""
+      },
+      {
+        "text": "187. What is NOT one of Ms. Wagner's opinions about the hotel?",
+        "choices": [
+          "A) The quality of the housekeeping is good.",
+          "B) The variety of menu options is below average.",
+          "C) The quality of service at the hotel is average.",
+          "D) The hospitality of the staff is average."
+        ],
+        "correctAnswer": "D) The hospitality of the staff is average",
+        "teacherCorrection": "Ms. Wagner did not specifically comment on the hospitality of the staff being average; she indicated poor service in other aspects.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "188. What is indicated about Ms. Wagner?",
+        "choices": [
+          "A) She has stayed at other Persimmon Royal hotels.",
+          "B) She feels the hotel restaurants are expensive.",
+          "C) She will soon travel to Bangkok for business.",
+          "D) She received a bill in the mail from the hotel."
+        ],
+        "correctAnswer": "A) She has stayed at other Persimmon Royal hotels",
+        "teacherCorrection": "The email confirms this was Ms. Wagner's first visit to this particular hotel, implying previous experiences with other hotels in the chain.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "189. What restaurant mistakenly charged Ms. Wagner?",
+        "choices": [
+          "A) Bai Makrut",
+          "B) Café Galanga",
+          "C) Waterworks",
+          "D) Elan"
+        ],
+        "correctAnswer": "C) Waterworks",
+        "teacherCorrection": "Waterworks is the poolside café. 'This time, I was charged twice for poolside snacks that I didn’t order' on the stay review.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "190. Where will Ms. Wagner attend a conference in March?",
+        "choices": [
+          "A) In Bangkok",
+          "B) In Macau",
+          "C) In Singapore",
+          "D) In Melbourne"
+        ],
+        "correctAnswer": "B) In Macau",
+        "teacherCorrection": "In her survey response, Ms. Wagner mentions plans to attend a conference in Macau in March, as noted in her inquiry about the voucher's validity.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "191. What is indicated about the workshops?",
+        "choices": [
+          "A) They may be completed online.",
+          "B) They are on topics requested by the customers.",
+          "C) They are a new initiative for the business.",
+          "D) They will be followed by workshops with advanced-level topics."
+        ],
+        "correctAnswer": "C) They are a new initiative for the business.",
+        "teacherCorrection": "'Thanks to all the volunteers who have agreed to lead our first in-store workshops.' line 1",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q191195.png",
+        "audioPath": ""
+      },
+      {
+        "text": "192. What is suggested about the workshop on tile flooring?",
+        "choices": [
+          "A) It is filled almost to capacity.",
+          "B) It requires a fee to cover materials.",
+          "C) It may have to be canceled.",
+          "D) It is led by a high-school teacher."
+        ],
+        "correctAnswer": "A) It is filled almost to capacity.",
+        "teacherCorrection": "The workshop on tile flooring will be held on May 28, with a capacity of 14 out of 15.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "193. Which facilitator is Mr. Czerny replacing?",
+        "choices": [
+          "A) Ms. Delaney",
+          "B) Mr. Faisal",
+          "C) Mr. Zimmer",
+          "D) Mrs. Jimenez"
+        ],
+        "correctAnswer": "C) Mr. Zimmer",
+        "teacherCorrection": "Mr. Czerny is stepping in to teach the electrical skills workshop, replacing Mr. Zimmer who was originally scheduled to facilitate it.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "194. What does Ms. Gomez tell Mr. Czerny about his workshop participants?",
+        "choices": [
+          "A) They will require supervision.",
+          "B) They must bring their own supplies.",
+          "C) They are completing a work requirement.",
+          "D) They will receive training materials in advance."
+        ],
+        "correctAnswer": "A) They will require supervision.",
+        "teacherCorrection": "Ms. Gomez advises Mr. Czerny that his workshop participants will need supervision as they may not have prior experience using tools, which is his task to manage during the workshop.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "195. In the second e-mail, the word 'address' in paragraph 2, line 5, is closest in meaning to",
+        "choices": [
+          "A) lecture",
+          "B) label",
+          "C) send out",
+          "D) respond to"
+        ],
+        "correctAnswer": "D) respond to",
+        "teacherCorrection": "In the context of the email, the term 'address' is used to mean 'respond to' or 'deal with' the concerns or issues mentioned.",
+        "examNumber": 1,
+        "category": "Listening",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "196. What is suggested about The Sun Princess?",
+        "choices": [
+          "A) It was written by Akira Murata.",
+          "B) It will be Margo Schmidt's first role.",
+          "C) It has received positive reviews from critics.",
+          "D) It will be performed for the first time on June 17."
+        ],
+        "correctAnswer": "D) It will be performed for the first time on June 17.",
+        "teacherCorrection": "The Sun Princess is suggested to be having its world premiere on June 17, indicating that it will be performed for the first time on this date.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "e1q196200.png",
+        "audioPath": ""
+      },
+      {
+        "text": "197. What is suggested about the Wood Hollow Theatre in the letter?",
+        "choices": [
+          "A) It accepts donations from people in the community.",
+          "B) It offers reduced ticket prices to members.",
+          "C) It organizes lecture tours on the arts.",
+          "D) It hosts special performances for members."
+        ],
+        "correctAnswer": "C) It organizes lecture tours on the arts.",
+        "teacherCorrection": "Lecture tours on the arts is the only option NOT mentioned",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "198. In the letter, the word 'prominent' in paragraph 2, line 3, is closest in meaning to",
+        "choices": [
+          "A) talented",
+          "B) famous",
+          "C) protruding",
+          "D) obvious"
+        ],
+        "correctAnswer": "B) famous",
+        "teacherCorrection": "'Prominent' in this context is closest in meaning to 'famous,' as it is used to describe well-known or widely recognized.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "199. On what day will Mr. Bhatia attend the performance?",
+        "choices": [
+          "A) Thursday",
+          "B) Friday",
+          "C) Saturday",
+          "D) Sunday"
+        ],
+        "correctAnswer": "A) Saturday",
+        "teacherCorrection": "Mr. Bhatia is invited for the Thursday, June 17, at 7:30 P.M performance",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "200. What type of ticket is Mr. Bhatia ordering?",
+        "choices": [
+          "A) Nonmember",
+          "B) Student member",
+          "C) Regular member",
+          "D) Patron member"
+        ],
+        "correctAnswer": "D) Patron member",
+        "teacherCorrection": "The correct answer is 'D) Patron member.' Mr. Bhatia, as a Patron level member, he will receive two free tickets.",
+        "examNumber": 1,
+        "category": "Reading",
+        "part": "Passages",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
       }
   ]
 }
