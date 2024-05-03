@@ -1,0 +1,270 @@
+{
+    "questions": [
+        {
+            "text": "1. The computer systems ____ are affordable for a Fortune 500 company will not be affordable for a small company.",
+            "choices": [
+              "A) in which",
+              "B) in that",
+              "C) what",
+              "D) that"
+            ],
+            "correctAnswer": "D) that",
+            "teacherCorrection": "",
+            "examNumber": 11,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "2. Sky Tower ____ the AV building is going to house the new regional office of Jacob and Associates.",
+            "choices": [
+              "A) yet",
+              "B) and",
+              "C) neither",
+              "D) or"
+            ],
+            "correctAnswer": "D) or",
+            "teacherCorrection": "",
+            "examNumber": 11,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "3. Over one-third of the survey participants ____ the city's garbage collection fees too high.",
+            "choices": [
+              "A) considers",
+              "B) consider",
+              "C) has considered",
+              "D) is considering"
+            ],
+            "correctAnswer": "B) consider",
+            "teacherCorrection": "",
+            "examNumber": 11,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "4. In case you have not already noticed, a new scanner was installed in the main conference room last week. ______.",
+            "choices": [
+              "A) As you all know, the old device was quite slow and difficult to use",
+              "B) Different types of paper are included with the device",
+              "C) Please reply with your preferred meeting time",
+              "D) Please allow us a few days to submit our final offer"
+            ],
+            "correctAnswer": "A) As you all know, the old device was quite slow and difficult to use",
+            "teacherCorrection": "Option A) provides context for the introduction of a new scanner, giving a reason for its replacement - the old one was slow and difficult to use. The other options are not related to the context of introducing a new scanner.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "e11q47.png",
+            "audioPath": ""
+          },
+          {
+            "text": "5. As such, we have invested in a wireless, highly-advanced model that we hope _____________ our company well over the next several years",
+            "choices": [
+              "A) serves",
+              "B) serving",
+              "C) will serve",
+              "D) will have served"
+            ],
+            "correctAnswer": "C) will serve",
+            "teacherCorrection": "The structure 'hope + clause' is typically used with future simple, not present simple or present continuous. Therefore, 'we hope it will serve' is the appropriate structure.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "6. A helpful guide explaining general information and troubleshooting tips is _____________ on the table next to the scanner.",
+            "choices": [
+              "A) locate",
+              "B) located",
+              "C) locating",
+              "D) location"
+            ],
+            "correctAnswer": "C) located",
+            "teacherCorrection": "The passive voice structure is used here to describe the position of the guide. 'Is located' means the guide can be found at a certain place, which in this context is on the table next to the scanner.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "7. Please _________ it if you have any questions while learning how to use the new device.",
+            "choices": [
+              "A) notify",
+              "B) reference",
+              "C) discuss",
+              "D) explain"
+            ],
+            "correctAnswer": "B) reference",
+            "teacherCorrection": "In the context of the sentence, the action that one should do with the guide when having questions is to 'reference' it, meaning to consult or look into it. The other options don't fit contextually since you wouldn't 'notify' a guide, 'discuss' it in this scenario, or 'explain' it.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "8. For whom is the invitation most likely intended?",
+            "choices": [
+              "A) Students at the university",
+              "B) Residents of the town",
+              "C) Members of the community",
+              "D) Professors at the university"
+            ],
+            "correctAnswer": "B) Residents of the town",
+            "teacherCorrection": "Residents of the town - The text mentions that the Richmond community is invited to the anniversary celebration.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e11q810.png",
+            "audioPath": ""
+          },
+          {
+            "text": "9. What is being announced?",
+            "choices": [
+              "A) The commemoration of a community",
+              "B) The commemoration of an institute's founding",
+              "C) The annual gathering of students in a field",
+              "D) The opening of a city's historical exhibit"
+            ],
+            "correctAnswer": "B) The commemoration of an institute's founding",
+            "teacherCorrection": "The commemoration of an institute's founding - The text mentions that the celebration is in celebration of 40 years of academic excellence at Langara University.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "10. What is indicated about the events and activities",
+            "choices": [
+              "A) They are all free for participants",
+              "B) The community members organized them",
+              "C) They will take place at various locations around Richmond",
+              "D) They will last for five days"
+            ],
+            "correctAnswer": "C) They will take place at various locations around Richmond",
+            "teacherCorrection": "They will take place at various locations around Richmond - The text mentions that events and activities will be available for the town's amusement and will be held at various locations including the Central Hall, the Langara building, Richmond Field, the sports field, and the Richmond field.",
+            "examNumber": 11,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "11. Listening: Photographs",
+            "choices": ["A)", "B)", "C)", "D)"],
+            "correctAnswer": "D)",
+            "teacherCorrection": "The drum is in front of the chair.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Photographs",
+            "ref": "",
+            "imagePath": "e11q11.png",
+            "audioPath": "toeic-listening-1-2.mp3"
+        },
+        {
+            "text": "12. Listening: Question-Response",
+            "choices": ["A)", "B)", "C)"],
+            "correctAnswer": "B)",
+            "teacherCorrection": "He's probably too busy today. An opinion is expected",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Question-Response",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "toeic-listening-2-2.mp3"
+          },
+          {
+            "text": "13. What does the man have to do today?",
+            "choices": ["A) Visit his lawyer", "B) Get a massage", "C) Go to the doctor", "D) Make an appointment"],
+            "correctAnswer": "C) Go to the doctor",
+            "teacherCorrection": "The man has a doctor's appointment this afteroon.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "englishclub-toeic-short-convos-2.mp3"
+          },
+          {
+            "text": "14. What can be inferred from the conversation?",
+            "choices": ["A) The woman is the man's receptionist.", "B) The lawyer works in the same building.", "C) The woman has no deadlines today.", "D) The man and woman have a meeting this afternoon."],
+            "correctAnswer": "C) The woman has no deadlines today.",
+            "teacherCorrection": "She has no deadlines today and can handle some of the man's work.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "15. What does the woman offer to do for the man?",
+            "choices": ["A) Answer his phone", "B) Call his lawyer", "C) Pick up the newspaper", "D) Take notes at the meeting"],
+            "correctAnswer": "A) Answer his phone",
+            "teacherCorrection": "She will answer his calls.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "16. What kind of business does the speaker work for?",
+            "choices": ["A) A restaurant", "B) A supermarket", "C) A furniture store", "D) A fitness center"],
+            "correctAnswer": "A) A restaurant",
+            "teacherCorrection": "She is talking about serving food, so the speaker works for a restaurant.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "Part4No74_76.mp3"
+          },
+          {
+            "text": "17. Why does the speaker assign extra work to the listeners?",
+            "choices": ["A) A deadline is approaching.", "B) A staff member is unwell.", "C) Many customers are expected.", "D) Equipment needs to be unpacked."],
+            "correctAnswer": "B) A staff member is unwell.",
+            "teacherCorrection": "Another staff has a cold, so the listeners have to do extra work.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "18. What does the speaker ask listeners to tell customers about?",
+            "choices": ["A) New business hours", "B) Discount cards", "C) A special dish", "D) A holiday sale"],
+            "correctAnswer": "C) A special dish",
+            "teacherCorrection": "To tell the customers about the new menu they have.",
+            "examNumber": 11,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          }
+    ]
+}

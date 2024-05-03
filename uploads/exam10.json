@@ -1,0 +1,270 @@
+{
+    "questions": [
+        {
+            "text": "1. People who arrive more than 30 minutes ____ the opera begins should wait in the lobby until the doors to the main hall are opened.",
+            "choices": [
+            "A) when",
+            "B) before",
+            "C) since",
+            "D) during"
+            ],
+            "correctAnswer": "B) before",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+        },
+        {
+            "text": "2. First-class seats ____ with a fully reclining seat, workstation, TV, and a global telephone for the convenience of Turkey Airline's passengers.",
+            "choices": [
+            "A) equipment",
+            "B) equipped",
+            "C) are equipping",
+            "D) are equipped"
+            ],
+            "correctAnswer": "D) are equipped",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+        },
+        {
+            "text": "3. Attendees of the conference who wish to stay near the venue are ____ to book their hotel early.",
+            "choices": [
+              "A) advising",
+              "B) advice",
+              "C) advised",
+              "D) advisory"
+            ],
+            "correctAnswer": "C) advised",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "4. Additionally, we will be honoring ____ coupons during the sale.",
+            "choices": [
+              "A) valid",
+              "B) validly",
+              "C) validity",
+              "D) validation"
+            ],
+            "correctAnswer": "A) valid",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "e10q47.png",
+            "audioPath": ""
+          },
+          {
+            "text": "5. ...each customer will be strictly limited to ____ a maximum of five pairs of discounted shoes.",
+            "choices": [
+              "A) purchase",
+              "B) purchases",
+              "C) purchased",
+              "D) purchasing"
+            ],
+            "correctAnswer": "D) purchasing",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "6. If this limit is surpassed, regular prices will apply for the remaining purchases. ____ We thank you in advance for your cooperation in making this sale accessible for all.",
+            "choices": [
+              "A) Although our products are slightly used, we redecorate them as necessary.",
+              "B) We are affiliated with many smaller shoe stores in the area.",
+              "C) If this limit is surpassed, regular prices will apply for the remaining purchases.",
+              "D) Our website is currently being updated to reflect these prices."
+            ],
+            "correctAnswer": "C) If this limit is surpassed, regular prices will apply for the remaining purchases.",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "7. Remember to take advantage of this weekend of great deals, ____ your next favorite pair of shoes is waiting for you right here at Gordon's!",
+            "choices": [
+              "A) which",
+              "B) where",
+              "C) whenever",
+              "D) wherever"
+            ],
+            "correctAnswer": "B) where",
+            "teacherCorrection": "",
+            "examNumber": 10,
+            "category": "Grammar",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "8. What job is the vacancy closest to in terms of the duties involved?",
+            "choices": [
+              "A) An international lawyer",
+              "B) A customer service manager",
+              "C) An administrative assistant",
+              "D) A legal associate"
+            ],
+            "correctAnswer": "C) An administrative assistant",
+            "teacherCorrection": "The correct answer is 'C) An administrative assistant' because the job involves duties typical of administrative support, such as guiding clients, managing schedules, and providing customer service.",
+            "examNumber": 10,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e10q89.png",
+            "audioPath": ""
+          },
+          {
+            "text": "9. What qualification is NOT mentioned as a requirement for the job?",
+            "choices": [
+              "A) An university degree",
+              "B) Skill in handling electronic documents",
+              "C) An ability to deal with customers",
+              "D) Written communication skills"
+            ],
+            "correctAnswer": "D) Written communication skills",
+            "teacherCorrection": "The correct answer is 'D) Written communication skills.' The advertisement specifically requires a degree, customer service ability, and document handling skills, but does not explicitly mention written communication skills.",
+            "examNumber": 10,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "10. Why is the order late?",
+            "choices": [
+              "A) The payment has still not been received",
+              "B) The firm has used an inaccurate mailing address",
+              "C) The government has imposed sanctions on shipping",
+              "D) Unexpected circumstances have affected the delivery"
+            ],
+            "correctAnswer": "D) Unexpected circumstances have affected the delivery",
+            "teacherCorrection": "The correct answer is 'D) Unexpected circumstances have affected the delivery.' The email specifies that a wildfire and resulting road closures are the reason for the delay.",
+            "examNumber": 10,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e10q1011.png",
+            "audioPath": ""
+          },
+          {
+            "text": "11. Listening: Photographs",
+            "choices": ["A)", "B)", "C)", "D)"],
+            "correctAnswer": "C)",
+            "teacherCorrection": "The woman is facing the monitor.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Photographs",
+            "ref": "",
+            "imagePath": "e10q1.png",
+            "audioPath": "toeic-listening-1-1.mp3"
+        },
+        {
+            "text": "12. Listening: Question-Response",
+            "choices": ["A)", "B)", "C)"],
+            "correctAnswer": "C)",
+            "teacherCorrection": "At least 50 people, the questions expects a number of people that will be coming in teh future.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Question-Response",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "toeic-listening-2-1.mp3"
+          },
+          {
+            "text": "13. What are the man and woman mainly discussing?",
+            "choices": ["A) A vacation", "B) A budget", "C) A company policy", "D) A conference"],
+            "correctAnswer": "D) A conference",
+            "teacherCorrection": "The subject of the conversation is a conference that they are attending",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "englishclub-toeic-short-convos-1.mp3"
+          },
+          {
+            "text": "14. How is the woman traveling?",
+            "choices": ["A) By plane", "B) By bus", "C) By taxi", "D) By car"],
+            "correctAnswer": "B) By bus",
+            "teacherCorrection": "The woman is travelling by bus.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "15. Why aren't the man and woman going together?",
+            "choices": ["A) The woman needs to arrive earlier.", "B) The man has to work overtime.", "C) The man has to work overtime.", "D) The man has to go to the bank first."],
+            "correctAnswer": "C) The woman dislikes air travel.",
+            "teacherCorrection": "She is afraid of flying.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "16. What does the speaker say about the repair?",
+            "choices": ["A) It is not required.", "B) It has been finished early.", "C) It will be inexpensive.", "D) It is covered by a warranty."],
+            "correctAnswer": "B) It has been finished early.",
+            "teacherCorrection": "The repair has been completed ahead of schedule.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "Part4No71_73.mp3"
+          },
+          {
+            "text": "17. When can the listener pick up his car?",
+            "choices": ["A) Today", "B) Tomorrow", "C) Next week", "D) In two weeks"],
+            "correctAnswer": "B) Tomorrow",
+            "teacherCorrection": "They are closing for the day so he can come pick up his car anytime tomorrow",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "18. What does the speaker offer to do?",
+            "choices": ["A) Look for a used part", "B) Refund the cost of a charge", "C) Send an invoice", "D) Arrange a ride"],
+            "correctAnswer": "D) Arrange a ride",
+            "teacherCorrection": "He can arrange a ride for the customer to come to the repair shop.",
+            "examNumber": 10,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          }
+    ]
+}

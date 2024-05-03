@@ -1,0 +1,250 @@
+{
+    "questions": [
+        {
+            "text": "1. ____ the possible coming retaliation in the trade war, the country decided to seize the initiatives and form stronger bonds with neighboring countries.",
+            "choices": [
+              "A) Know",
+              "B) Known",
+              "C) Knowing",
+              "D) Knew"
+            ],
+            "correctAnswer": "C) Knowing",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "2. The landlord insisted that the tenants ____ until the end of the month to abide by the contract.",
+            "choices": [
+              "A) stay",
+              "B) stayed",
+              "C) will stay",
+              "D) is staying"
+            ],
+            "correctAnswer": "A) stay",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "6. Two years ago, the Department of Computer Science at the University of British Columbia began ____ artificial intelligence courses.",
+            "choices": [
+              "A) offer",
+              "B) offered",
+              "C) offering",
+              "D) has offered"
+            ],
+            "correctAnswer": "C) offering",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Grammar",
+            "part": "Incomplete Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "4. If you _____ before July 21, we will add one extra month to your subscription.",
+            "choices": ["A) renew", "B) renewing", "C) had renewed", "D) will be renewed"],
+            "correctAnswer": "A) renew",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "e1q143146.png",
+            "audioPath": ""
+          },
+          {
+            "text": "5. There is no charge for museum staff, but all participants must register in advance, as there is _____ seating.",
+            "choices": ["A) limit", "B) limits", "C) limited", "D) to limit"],
+            "correctAnswer": "C) limited",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "6. You do not need to enclose your _____ at this time. We will send you an invoice, and you can send your money later.",
+            "choices": ["A) rent", "B) bill", "C) receipt", "D) payment"],
+            "correctAnswer": "D) payment",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "7. So mail the card today. You will not miss a _____ copy of Financial News Weekly, and you will receive an extra month for free!",
+            "choices": ["A) single", "B) recognized", "C) treatable", "D) lonely"],
+            "correctAnswer": "A) single",
+            "teacherCorrection": "",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "8. What piece of information is incorrect in the reservation?",
+            "choices": [
+              "A) The arrival date",
+              "B) The list of available facilities",
+              "C) The discount rate",
+              "D) The date the conference begins"
+            ],
+            "correctAnswer": "A) The arrival date",
+            "teacherCorrection": "The arrival date - 'To clarify, you mentioned that I would arrive on September 8, which is incorrect. Though the conference begins on September 8, I will arrive two days earlier, on September 6.' (Second email, Paragraph 2)",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e13q810.png",
+            "audioPath": ""
+          },
+          {
+            "text": "9. What can be inferred about the Tiempos Relajantes bar?",
+            "choices": [
+              "A) It is available to everyone",
+              "B) It is reserved for conference participants",
+              "C) It requires a VIP access",
+              "D) It is next to the Oriental Delights restaurant"
+            ],
+            "correctAnswer": "A) It is available to everyone",
+            "teacherCorrection": "It is available to everyone - The text does not mention any restrictions on the use of the Tiempos Relajantes bar, implying that it is available to all guests of the hotel. The text mentions that the bar is located at the entrance of the hotel: 'we also have the Oriental Delights restaurant on the roof and the Tiempos Relajantes bar at the entrance.' (First email, Paragraph 2)",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "10. What is NOT specified in the first email?",
+            "choices": [
+              "A) Mr Smith will enjoy a 30% discount on his reservation",
+              "B) Mr Smith is expected to arrive on September 8",
+              "C) The Oriental Delights is a rooftop resetaurant",
+              "D) The hotel is a sponsor for the conference"
+            ],
+            "correctAnswer": "D) The hotel is a sponsor for the conference",
+            "teacherCorrection": "The hotel is a sponsor for the conference - This information is not mentioned in the first email.",
+            "examNumber": 13,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e10q1011.png",
+            "audioPath": ""
+          },
+          {
+            "text": "11. Listening: Photographs",
+            "choices": ["A)", "B)", "C)", "D)"],
+            "correctAnswer": "A)",
+            "teacherCorrection": "He is shoveling some soil.",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Photographs",
+            "ref": "",
+            "imagePath": "e13q11.png",
+            "audioPath": "toeic-listening-1-4.mp3"
+        },
+        {
+            "text": "12. Listening: Question-Response",
+            "choices": ["A)", "B)", "C)"],
+            "correctAnswer": "B)",
+            "teacherCorrection": "Did you have to wait very long? -> No more than an hour. Here, 'No' is not in the negative form. 'No more than an hour' means 'a maximum of 1 hour'.",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Question-Response",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "toeic-listening-2-4.mp3"
+          },
+          {
+            "text": "13. Where do the speakers work?",
+            "choices": ["A) At a hotel", "B) At a department store", "C) At a restaurant", "D) At a call center"],
+            "correctAnswer": "A) At a hotel",
+            "teacherCorrection": "They both work at the hotel",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "listeninge13.mp3"
+          },
+          {
+            "text": "14. What does the man ask about?",
+            "choices": ["A) How many people have applied for a promotion", "B) If a manager is in the lobby", "C) Whether a position is available", "D) When new shifts will be assigned"],
+            "correctAnswer": "C) Whether a position is available",
+            "teacherCorrection": "He asks the woman if she know whether the hotel is still taking applications for the job or not.",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "15. What does the woman say the man should be prepared to do?",
+            "choices": ["A) Handle customer complaints", "B) Work within a budget", "C) Get to know local clients", "D) Work evening hours"],
+            "correctAnswer": "D) Work evening hours",
+            "teacherCorrection": "She says that if he does not mind wroking the evening hours, he could have a good chance at getting the job.",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "16. 80 Where most likely is the speaker?",
+            "choices": ["A) At an award ceremony", "B) At a musical performance", "C) At a retirement celebration", "D) At a training seminar"],
+            "correctAnswer": "D) At a training seminar",
+            "teacherCorrection": "They speaker says 'we are happy to see you all at the seminar this afternoon.'",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "e13q1618",
+            "audioPath": "Part4No80_82.mp3"
+          },
+          {
+            "text": "17. What are listeners asked to do?",
+            "choices": ["A) Stay seated during the break", "B) Carry their valuables with them", "C) Return any borrowed equipment", "D) Share printed programs with others"],
+            "correctAnswer": "B) Carry their valuables with them",
+            "teacherCorrection": "Keep money, phones and other eletronic devices with you",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "18. Look at the graphic. Who will be the final presenter?",
+            "choices": ["A) Ms. Carbajal", "B) Mr. Buteux", "C) Mr. Chambers", "D) Ms. Ohta"],
+            "correctAnswer": "C) Mr. Chambers",
+            "teacherCorrection": "There will be a change with the two presenters, which means that Mr. Chambers will chance schedule with Mr. Ohta.",
+            "examNumber": 13,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          }
+    ]
+}

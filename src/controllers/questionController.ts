@@ -213,3 +213,28 @@ export const deleteAllQuestions = async (req: Request, res: Response) => {
       res.status(500).json({ message: 'Error deleting questions', error });
   }
 };
+
+// Controller to delete all questions for a specific exam number
+export const deleteAllQuestionsByExamNumber = async (req: Request, res: Response) => {
+  // Get exam number from request query or body
+  const examNumber = parseInt(req.params.examNumber);
+
+  if (!examNumber) {
+    return res.status(400).json({ message: "No exam number provided" });
+  }
+
+  try {
+    // Use deleteMany with a filter to delete documents by exam number
+    const result = await Question.deleteMany({ examNumber: examNumber });
+
+    if (result.deletedCount === 0) {
+      return res.status(404).json({ message: "No questions found for the provided exam number" });
+    }
+
+    // Respond with the result of the delete operation
+    res.status(200).json({ message: `All questions for exam number ${examNumber} have been deleted`, deletedCount: result.deletedCount });
+  } catch (error) {
+    // Handle any errors during the delete operation
+    res.status(500).json({ message: 'Error deleting questions', error });
+  }
+};

@@ -1,0 +1,270 @@
+{
+    "questions": [
+        {
+            "text": "1. The supervisor reminds the staff that ____ is discussed at the meeting is confidential and should not be revealed to anyone who is not in the company.",
+            "choices": [
+              "A) whichever",
+              "B) whatever",
+              "C) whenever",
+              "D) wherever"
+            ],
+            "correctAnswer": "B) whatever",
+            "teacherCorrection": "",
+            "examNumber": 12,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "2. ____ your application be denied, you will receive a full refund of the application fee.",
+            "choices": [
+              "A) Had",
+              "B) Should",
+              "C) Did",
+              "D) Might"
+            ],
+            "correctAnswer": "B) Should",
+            "teacherCorrection": "",
+            "examNumber": 12,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "3. A snowstorm ____ by freezing rain has been forecast in the Midwest on Sunday evening.",
+            "choices": [
+              "A) accompanied",
+              "B) accompanying",
+              "C) to accompany",
+              "D) will accompany"
+            ],
+            "correctAnswer": "B) accompanying",
+            "teacherCorrection": "",
+            "examNumber": 12,
+            "category": "Grammar",
+            "part": "Incomplete-Sentences",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "4. Museum employees are eligible to ______ this series, which will culminate in a guided tour of a number of Renaissance masterpieces in the McKellen Gallery.",
+            "choices": [
+              "A) offer",
+              "B) attend",
+              "C) lead",
+              "D) apply"
+            ],
+            "correctAnswer": "B) attend",
+            "teacherCorrection": "The correct answer is 'B) attend'. This choice correctly completes the sentence by stating that employees can attend the series of lectures.",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "e1q139142.png",
+            "audioPath": ""
+          },
+          {
+            "text": "5. There is no charge for museum staff, but all participants must register in advance, as there is ______ seating.",
+            "choices": [
+              "A) limit",
+              "B) limits",
+              "C) limited",
+              "D) to limit"
+            ],
+            "correctAnswer": "C) limited",
+            "teacherCorrection": "The correct answer is 'C) limited'. 'Limited' fits properly to describe the availability of seating, indicating that it is not unlimited.",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "6. Stop by my office to sign up today for this ______ chance to hear Dr. Byers speak.",
+            "choices": [
+              "A) exceptional",
+              "B) costly",
+              "C) thoughtful",
+              "D) required"
+            ],
+            "correctAnswer": "A) exceptional",
+            "teacherCorrection": "The correct answer is 'A) exceptional'. This word describes the unique or special opportunity to hear Dr. Byers speak.",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "7. This is an opportunity you will not want to ______.",
+            "choices": [
+              "A) speak",
+              "B) attend",
+              "C) limit",
+              "D) miss"
+            ],
+            "correctAnswer": "D) miss",
+            "teacherCorrection": "The correct answer is 'D) miss'. This phrase completes the sentence by suggesting it's an opportunity too good to forego.",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Text-Completion",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "8. What kind of business do Ms. Lambert and Mr McDonald probably work for??",
+            "choices": [
+              "A) A customer service center",
+              "B) An order processing service",
+              "C) An online marketing agency",
+              "D) An appeal company"
+            ],
+            "correctAnswer": "D) An appeal company",
+            "teacherCorrection": "An apparel company - This is mentioned in the text: 'We should prepare for the increased demand and come up with new clever designs for the formal and casual wear we produce.' (Paragraph 6)",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e12q89.png",
+            "audioPath": ""
+          },
+          {
+            "text": "9. At 12:28 P.M., what does Mr. McDonald most likely emphasize when he says “indeed”?",
+            "choices": [
+              "A) That the customer service center is fully staffed",
+              "B) That the company must be ready for new customers",
+              "C) That there are enough specialists for the region",
+              "D) That the brand must carefully consider its next step"
+            ],
+            "correctAnswer": "B) That the company must be ready for new customers",
+            "teacherCorrection": "That the company must be ready for new customers - This is mentioned in the text: 'The next step for our brand is to adjust to the next wave of incoming customers...We should prepare for the increased demand and come up with new clever designs for the formal and casual wear we produce.' (Paragraphs 5 and 6 )",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "10. What will Mr. Thompson receive?",
+            "choices": [
+              "A) A full refund of the price of the order",
+              "B) Free shipping on several orders in the future",
+              "C) Coupons for the next three orders",
+              "D) A free replacement for the items ordered"
+            ],
+            "correctAnswer": "B) Free shipping on several orders in the future",
+            "teacherCorrection": "The correct answer is 'B) Free shipping on several orders in the future.' According to the email, Mr. Thompson's current order and the next three orders will have free shipping as a gesture of goodwill for the delay caused by external circumstances.",
+            "examNumber": 12,
+            "category": "Reading",
+            "part": "Passages",
+            "ref": "",
+            "imagePath": "e10q1011.png",
+            "audioPath": ""
+          },
+          {
+            "text": "11. Listening: Photographs",
+            "choices": ["A)", "B)", "C)", "D)"],
+            "correctAnswer": "D)",
+            "teacherCorrection": "The drum is in front of the chair.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Photographs",
+            "ref": "",
+            "imagePath": "e12q11.png",
+            "audioPath": "toeic-listening-1-3.mp3"
+        },
+        {
+            "text": "12. Listening: Question-Response",
+            "choices": ["A)", "B)", "C)"],
+            "correctAnswer": "B)",
+            "teacherCorrection": "No, I sent it by email. A yes or no answer is expected here.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Question-Response",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "toeic-listening-2-3.mp3"
+          },
+          {
+            "text": "13. Why is the woman calling?",
+            "choices": ["A) To cancel an order", "B) To complain about a product", "C) To redeem a gift card", "D) To renew a warranty"],
+            "correctAnswer": "B) To complain about a product",
+            "teacherCorrection": "She is calling because the coffee machine she recently bough stopped working.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "listeninge12.mp3"
+          },
+          {
+            "text": "14. What does the man ask the woman about?",
+            "choices": ["A) A model name", "B) A brand of coffee", "C) A catalog number", "D) A date of purchase"],
+            "correctAnswer": "D) A date of purchase",
+            "teacherCorrection": "He asks when the woman bought the coffee machine to know if the warranty is still valid",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "15. What does the man offer to do?",
+            "choices": ["A) Provide a discount", "B) Send a free sample", "C) Extend a warranty", "D) Issue a refund"],
+            "correctAnswer": "A) Provide a discount",
+            "teacherCorrection": "As she is a valued customer, he can offer a coupon for 40% off her next purchase.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Conversations",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "16. What bothers the man about Torland Advertising?",
+            "choices": ["A) Their failure to meet deadlines", "B) Their problems with staffing", "C) Their request to revise a contract", "D) Their focus on cost cutting"],
+            "correctAnswer": "D) Their focus on cost cutting",
+            "teacherCorrection": "They seem to be much more concerned about cutting their cost than they are looking to give good quality advertising.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": "Part4No77_79.mp3"
+          },
+          {
+            "text": "17. What does the man mean when he says, 'Here’s the thing'?",
+            "choices": ["A) He will demonstrate a product.", "B) He has forgotten a word.", "C) He has found what he was looking for.", "D) He will introduce a point to consider."],
+            "correctAnswer": "D) He will introduce a point to consider.",
+            "teacherCorrection": "He is about to introduce a point to consider.",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          },
+          {
+            "text": "18. What are the listeners asked to look at?",
+            "choices": ["A) A design idea", "B) A business contract", "C) An advertisement", "D) A budget"],
+            "correctAnswer": "B) A business contract",
+            "teacherCorrection": "'Please take a moment to look at the contract with me'",
+            "examNumber": 12,
+            "category": "Listening",
+            "part": "Talks",
+            "ref": "",
+            "imagePath": "",
+            "audioPath": ""
+          }
+    ]
+}

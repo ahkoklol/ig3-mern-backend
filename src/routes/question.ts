@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import multer from 'multer';
-import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQuestion, getAllQuestions, createMultipleQuestionsViaZip, deleteAllQuestions } from '../controllers/questionController';
+import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQuestion, getAllQuestions, createMultipleQuestionsViaZip, deleteAllQuestionsByExamNumber, deleteAllQuestions } from '../controllers/questionController';
 
 const router = Router();
 
@@ -23,6 +23,7 @@ router.get('/allquestions', getAllQuestions);
 router.put('/edit/:questionId', editQuestion);
 router.get('/:questionId', getQuestion);
 router.delete('/deleteall', deleteAllQuestions);
+router.delete('/deleteByExam/:examNumber', deleteAllQuestionsByExamNumber);
 router.delete('/:questionId', deleteQuestion);
 
 export default router;
