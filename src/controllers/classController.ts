@@ -55,27 +55,25 @@ export const createOrUpdateClassWithParticipants = async (req: Request, res: Res
     const { className, teacherEmail } = req.body;
 
     try {
+        // First, find the teacher to ensure they exist
+        const teacher = await UserModel.findOne({ email: teacherEmail, role: 'teacher' });
+        if (!teacher) {
+            res.status(404).json({ message: 'Teacher not found' });
+            return
+        }
+
         // Find or create the class with the given name
         let classroom = await ClassModel.findOneAndUpdate(
             { name: className },
-            {},
+            { teacher: teacher._id }, // Set the teacher's ID right away
             { new: true, upsert: true, setDefaultsOnInsert: true }
         );
 
         // Find all students with the specified class name and link them to the class
         const students = await UserModel.find({ class: className, role: 'student' });
         const studentIds = students.map(student => student._id);
-        classroom.students = studentIds; // Correctly link students to the class
+        classroom.students = studentIds;
         await classroom.save();
-
-        // Find the teacher by email and link them to the class
-        const teacher = await UserModel.findOne({ email: teacherEmail, role: 'teacher' });
-        if (teacher) {
-            classroom.teacher = teacher._id;
-            await classroom.save();
-        } else {
-            throw new Error('Teacher not found');
-        }
 
         res.status(200).json({ message: 'Class and participants linked successfully', classroom });
     } catch (error) {
