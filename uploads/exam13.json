@@ -9,9 +9,9 @@
               "D) Knew"
             ],
             "correctAnswer": "C) Knowing",
-            "teacherCorrection": "",
+            "teacherCorrection": "The correct choice is 'C) Knowing' because it appropriately introduces a participial phrase describing the country's decision-making process. 'Knowing' indicates the state of awareness or understanding of the possible retaliation in the trade war.",
             "examNumber": 13,
-            "category": "Grammar",
+            "category": "Reading",
             "part": "Incomplete-Sentences",
             "ref": "",
             "imagePath": "",
@@ -26,16 +26,16 @@
               "D) is staying"
             ],
             "correctAnswer": "A) stay",
-            "teacherCorrection": "",
+            "teacherCorrection": "The correct choice is 'A) stay' because it matches the subjunctive mood required by the verb 'insisted'. The subjunctive mood is used to express a situation that is hypothetical, desired, or imagined.",
             "examNumber": 13,
-            "category": "Grammar",
+            "category": "Reading",
             "part": "Incomplete-Sentences",
             "ref": "",
             "imagePath": "",
             "audioPath": ""
           },
           {
-            "text": "6. Two years ago, the Department of Computer Science at the University of British Columbia began ____ artificial intelligence courses.",
+            "text": "3. Two years ago, the Department of Computer Science at the University of British Columbia began ____ artificial intelligence courses.",
             "choices": [
               "A) offer",
               "B) offered",
@@ -43,10 +43,10 @@
               "D) has offered"
             ],
             "correctAnswer": "C) offering",
-            "teacherCorrection": "",
+            "teacherCorrection": "The correct choice is 'C) offering' because it properly forms the present participle of the verb 'begin', indicating an ongoing action. In this context, it describes the continuous process of starting to offer artificial intelligence courses.",
             "examNumber": 13,
-            "category": "Grammar",
-            "part": "Incomplete Sentences",
+            "category": "Reading",
+            "part": "Incomplete-Sentences",
             "ref": "",
             "imagePath": "",
             "audioPath": ""

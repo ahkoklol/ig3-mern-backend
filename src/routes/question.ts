@@ -23,7 +23,7 @@ router.get('/allquestions', getAllQuestions);
 router.put('/edit/:questionId', editQuestion);
 router.get('/:questionId', getQuestion);
 router.delete('/deleteall', deleteAllQuestions);
-router.delete('/deleteByExam/:examNumber', deleteAllQuestionsByExamNumber);
+router.delete('/deletebyexam/:examNumber', deleteAllQuestionsByExamNumber);
 router.delete('/:questionId', deleteQuestion);
 
 export default router;
