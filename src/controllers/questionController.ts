@@ -219,7 +219,7 @@ export const deleteAllQuestionsByExamNumber = async (req: Request, res: Response
   // Get exam number from request query or body
   const examNumber = parseInt(req.params.examNumber);
 
-  if (!examNumber) {
+  if (isNaN(examNumber)) {
     return res.status(400).json({ message: "No exam number provided" });
   }
 
