@@ -359,7 +359,7 @@
               "C) locating",
               "D) location"
             ],
-            "correctAnswer": "C) located",
+            "correctAnswer": "B) located",
             "teacherCorrection": "The passive voice structure is used here to describe the position of the guide. 'Is located' means the guide can be found at a certain place, which in this context is on the table next to the scanner.",
             "examNumber": 0,
             "category": "Reading",
@@ -705,8 +705,8 @@
           {
             "text": "Listening: Photographs",
             "choices": ["A)", "B)", "C)", "D)"],
-            "correctAnswer": "D)",
-            "teacherCorrection": "The drum is in front of the chair.",
+            "correctAnswer": "A)",
+            "teacherCorrection": "The man is on a pathway",
             "examNumber": 0,
             "category": "Listening",
             "part": "Photographs",
