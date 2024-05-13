@@ -17,7 +17,7 @@ const app = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: ["http://localhost:5173", "https://toeic-solo-leveling.cluster-ig3.igpolytech.fr/"], // Adjust this to match your frontend URL
+    origin: ["http://localhost:5173", "https://toeic-solo-leveling.cluster-ig3.igpolytech.fr"], // Adjust this to match your frontend URL
     methods: ["GET", "POST"]
   }
 });
