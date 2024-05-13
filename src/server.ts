@@ -1,6 +1,8 @@
 import "dotenv/config";
 import express, { Request, Response } from "express";
 import mongoose from 'mongoose';
+import { createServer } from 'http';
+import { Server, Socket } from 'socket.io';
 import userRoutes from './routes/user'; // Correct the import statement for userRoutes
 import questionRoutes from './routes/question'; // Import questionRoutes
 import examRoutes from './routes/exam'; // Import examRoutes
@@ -11,6 +13,28 @@ import classRoutes from "./routes/class";
 
 // express app
 const app = express();
+
+const httpServer = createServer(app);
+const io = new Server(httpServer, {
+  cors: {
+    origin: ["http://localhost:5173", "https://toeic-solo-leveling.cluster-ig3.igpolytech.fr/"], // Adjust this to match your frontend URL
+    methods: ["GET", "POST"]
+  }
+});
+
+io.on('connection', (socket: Socket) => {
+  console.log('A user connected:', socket.id);
+
+  socket.on('disconnect', () => {
+    console.log('User disconnected:', socket.id);
+  });
+
+  // Receive message along with user details
+  socket.on('chat message', ({ user, text }) => {
+    // Emit message along with user details to all clients
+    socket.broadcast.emit('chat message', { user, text });
+  });
+});
 
 // middleware
 app.use(cors());
@@ -45,7 +69,7 @@ if (!process.env.MONGO_URI) {
 mongoose.connect(process.env.MONGO_URI)
     .then(() => {
         // listen for requests
-        app.listen(process.env.PORT, () => {
+        httpServer.listen(process.env.PORT, () => {
             console.log(`Server is listening on port ${process.env.PORT}`);
         });
     })
