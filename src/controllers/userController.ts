@@ -89,3 +89,13 @@ export const editUser = async (req: Request, res: Response): Promise<void> => {
       res.status(500).json({ message: 'Error updating user', error });
   }
 };
+
+// Controller to get all users
+export const getAllUsers = async (req: Request, res: Response) => {
+  try {
+      const users = await UserModel.find({});
+      res.status(200).json(users);
+  } catch (error) {
+      res.status(500).json({ message: "Server error", error });
+  }
+};
