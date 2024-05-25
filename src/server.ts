@@ -37,7 +37,14 @@ io.on('connection', (socket: Socket) => {
 });
 
 // middleware
-app.use(cors());
+const corsOptions = {
+  origin: process.env.CORS_ORIGINS?.split(',') || ["http://localhost:5173"], // Split a comma-separated list from the environment variable
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true
+};
+app.use(cors(corsOptions));
+
 app.use(express.json());
 app.use('/uploads', express.static('uploads')); // Serve static files from uploads directory
 
