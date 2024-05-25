@@ -38,7 +38,7 @@ io.on('connection', (socket: Socket) => {
 
 // middleware
 const corsOptions = {
-  origin: process.env.CORS_ORIGINS?.split(',') || ["http://localhost:5173"], // Split a comma-separated list from the environment variable
+  origin: process.env.CORS_ORIGINS?.split(',') || ["http://localhost:5173", "https://toeic-solo-leveling.cluster-ig3.igpolytech.fr"], // Split a comma-separated list from the environment variable
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true
