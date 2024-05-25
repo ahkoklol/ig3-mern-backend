@@ -1,0 +1,667 @@
+ {
+    "questions": [
+    {
+        "text": "The office ------- all next week.",
+        "choices": [
+        "A) closed",
+        "B) was closed",
+        "C) will be closed",
+        "D) has been closed"
+        ],
+        "correctAnswer": "C) will be closed",
+        "teacherCorrection": "The correct choice is 'C) will be closed' because it refers to an action that is scheduled to happen in the future.",
+        "examNumber": 101,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The company is ------- in London.",
+        "choices": [
+        "A) based",
+        "B) started",
+        "C) worked",
+        "D) released"
+        ],
+        "correctAnswer": "A) based",
+        "teacherCorrection": "The correct choice is 'A) based' because it describes the location of the company's headquarters.",
+        "examNumber": 102,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "This e-mail ------- your reservation.",
+        "choices": [
+        "A) confirms",
+        "B) to confirm",
+        "C) confirming",
+        "D) confirmations"
+        ],
+        "correctAnswer": "A) confirms",
+        "teacherCorrection": "The correct choice is 'A) confirms' because it is the verb that matches the subject 'e-mail'.",
+        "examNumber": 103,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "John is ------- the four brothers.",
+        "choices": [
+        "A) youngest",
+        "B) younger of",
+        "C) the younger",
+        "D) the youngest of"
+        ],
+        "correctAnswer": "D) the youngest of",
+        "teacherCorrection": "The correct choice is 'D) the youngest of' because it properly compares John with the other brothers.",
+        "examNumber": 104,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The tourist season ------- at the end of April.",
+        "choices": [
+        "A) begins",
+        "B) to begin",
+        "C) has begun",
+        "D) beginning"
+        ],
+        "correctAnswer": "A) begins",
+        "teacherCorrection": "The correct choice is 'A) begins' because it refers to the starting point of the tourist season.",
+        "examNumber": 105,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "------- costs is one of our most important goals.",
+        "choices": [
+        "A) Reduce",
+        "B) Reduces",
+        "C) Reducing",
+        "D) Reduction"
+        ],
+        "correctAnswer": "C) Reducing",
+        "teacherCorrection": "The correct choice is 'C) Reducing' because it matches the gerund form needed for the subject of the sentence.",
+        "examNumber": 106,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Many car engines will not start in cold -------.",
+        "choices": [
+        "A) climate",
+        "B) weather",
+        "C) condition",
+        "D) temperature"
+        ],
+        "correctAnswer": "D) temperature",
+        "teacherCorrection": "The correct choice is 'D) temperature' because it accurately describes the condition affecting car engines.",
+        "examNumber": 107,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Last month, sales ------- by more than 10%.",
+        "choices": [
+        "A) fell",
+        "B) fallen",
+        "C) fell over",
+        "D) fall down"
+        ],
+        "correctAnswer": "A) fell",
+        "teacherCorrection": "The correct choice is 'A) fell' because it is the simple past tense of the verb 'fall', indicating a completed action.",
+        "examNumber": 108,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Most students ------- smaller classes to larger ones.",
+        "choices": [
+        "A) take",
+        "B) study",
+        "C) prefer",
+        "D) choose"
+        ],
+        "correctAnswer": "C) prefer",
+        "teacherCorrection": "The correct choice is 'C) prefer' because it indicates a preference between two options.",
+        "examNumber": 109,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The office ____ all next week.",
+        "choices": [
+        "A) closed",
+        "B) was closed",
+        "C) will be closed",
+        "D) has been closed"
+        ],
+        "correctAnswer": "C) will be closed",
+        "teacherCorrection": "The correct choice is 'C) will be closed' because it refers to an action that is scheduled to happen in the future.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The company is ____ in London.",
+        "choices": [
+        "A) based",
+        "B) started",
+        "C) worked",
+        "D) released"
+        ],
+        "correctAnswer": "A) based",
+        "teacherCorrection": "The correct choice is 'A) based' because it describes the location of the company's headquarters.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "This e-mail ____ your reservation.",
+        "choices": [
+        "A) confirms",
+        "B) to confirm",
+        "C) confirming",
+        "D) confirmations"
+        ],
+        "correctAnswer": "A) confirms",
+        "teacherCorrection": "The correct choice is 'A) confirms' because it is the verb that matches the subject 'e-mail'.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "John is ____ the four brothers.",
+        "choices": [
+        "A) youngest",
+        "B) younger of",
+        "C) the younger",
+        "D) the youngest of"
+        ],
+        "correctAnswer": "D) the youngest of",
+        "teacherCorrection": "The correct choice is 'D) the youngest of' because it properly compares John with the other brothers.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The tourist season ____ at the end of April.",
+        "choices": [
+        "A) begins",
+        "B) to begin",
+        "C) has begun",
+        "D) beginning"
+        ],
+        "correctAnswer": "A) begins",
+        "teacherCorrection": "The correct choice is 'A) begins' because it refers to the starting point of the tourist season.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "____ costs is one of our most important goals.",
+        "choices": [
+        "A) Reduce",
+        "B) Reduces",
+        "C) Reducing",
+        "D) Reduction"
+        ],
+        "correctAnswer": "C) Reducing",
+        "teacherCorrection": "The correct choice is 'C) Reducing' because it matches the gerund form needed for the subject of the sentence.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Many car engines will not start in cold ____.",
+        "choices": [
+        "A) climate",
+        "B) weather",
+        "C) condition",
+        "D) temperature"
+        ],
+        "correctAnswer": "D) temperature",
+        "teacherCorrection": "The correct choice is 'D) temperature' because it accurately describes the condition affecting car engines.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Last month, sales ____ by more than 10%.",
+        "choices": [
+        "A) fell",
+        "B) fallen",
+        "C) fell over",
+        "D) fall down"
+        ],
+        "correctAnswer": "A) fell",
+        "teacherCorrection": "The correct choice is 'A) fell' because it is the simple past tense of the verb 'fall', indicating a completed action.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Most students ____ smaller classes to larger ones.",
+        "choices": [
+        "A) take",
+        "B) study",
+        "C) prefer",
+        "D) choose"
+        ],
+        "correctAnswer": "C) prefer",
+        "teacherCorrection": "The correct choice is 'C) prefer' because it indicates a preference between two options.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "On Monday, the city made ____ in public illegal.",
+        "choices": [
+        "A) smoke",
+        "B) smoked",
+        "C) smoking",
+        "D) to smoke"
+        ],
+        "correctAnswer": "C) smoking",
+        "teacherCorrection": "The correct choice is 'C) smoking' because it properly completes the sentence indicating the action that was made illegal.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "About 60% of the hotel's ____ are business travelers.",
+        "choices": [
+        "A) guests",
+        "B) rooms",
+        "C) tourists",
+        "D) vacations"
+        ],
+        "correctAnswer": "A) guests",
+        "teacherCorrection": "The correct choice is 'A) guests' because it accurately refers to the people staying at the hotel.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The report is due ____ no later than 5:00 p.m. today.",
+        "choices": [
+        "A) by",
+        "B) on",
+        "C) to",
+        "D) for"
+        ],
+        "correctAnswer": "A) by",
+        "teacherCorrection": "The correct choice is 'A) by' because it indicates the deadline for the report.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Payments ____ received within 30 days of delivery.",
+        "choices": [
+        "A) has to",
+        "B) should",
+        "C) must be",
+        "D) had better"
+        ],
+        "correctAnswer": "C) must be",
+        "teacherCorrection": "The correct choice is 'C) must be' because it indicates a requirement.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The project ____ at least $12 million to complete.",
+        "choices": [
+        "A) will cost",
+        "B) has a price",
+        "C) has charged",
+        "D) is an expense"
+        ],
+        "correctAnswer": "A) will cost",
+        "teacherCorrection": "The correct choice is 'A) will cost' because it indicates the future expense to complete the project.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Our travel arrangements were made ____ in advance.",
+        "choices": [
+        "A) week",
+        "B) weeks",
+        "C) weekly",
+        "D) weekend"
+        ],
+        "correctAnswer": "B) weeks",
+        "teacherCorrection": "The correct choice is 'B) weeks' because it indicates the period of time in advance.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The party ____ were sent out to everyone yesterday.",
+        "choices": [
+        "A) festivals",
+        "B) surprises",
+        "C) invitations",
+        "D) celebrations"
+        ],
+        "correctAnswer": "C) invitations",
+        "teacherCorrection": "The correct choice is 'C) invitations' because it indicates what was sent out.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "Over two hundred teachers ____ this year's annual convention.",
+        "choices": [
+        "A) went",
+        "B) came",
+        "C) appeared",
+        "D) attended"
+        ],
+        "correctAnswer": "D) attended",
+        "teacherCorrection": "The correct choice is 'D) attended' because it correctly indicates participation in the event.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The equipment can be operated at temperatures ____ freezing.",
+        "choices": [
+        "A) down",
+        "B) below",
+        "C) with",
+        "D) behind"
+        ],
+        "correctAnswer": "B) below",
+        "teacherCorrection": "The correct choice is 'B) below' because it accurately describes the temperature range.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "On ____, Americans will change careers five times during their lives.",
+        "choices": [
+        "A) usual",
+        "B) normal",
+        "C) average",
+        "D) ordinary"
+        ],
+        "correctAnswer": "C) average",
+        "teacherCorrection": "The correct choice is 'C) average' because it indicates the statistical likelihood.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The meeting ____ in the conference room on the second floor.",
+        "choices": [
+        "A) take place",
+        "B) to take place",
+        "C) takes the place",
+        "D) will take place"
+        ],
+        "correctAnswer": "D) will take place",
+        "teacherCorrection": "The correct choice is 'D) will take place' because it indicates a future scheduled event.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "A lack of spare parts means that the repairs ____ by about a week.",
+        "choices": [
+        "A) delays",
+        "B) delaying",
+        "C) is a delay",
+        "D) will be delayed"
+        ],
+        "correctAnswer": "D) will be delayed",
+        "teacherCorrection": "The correct choice is 'D) will be delayed' because it indicates a future impact.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "____ the storm, the city has decided that schools will be closed tomorrow.",
+        "choices": [
+        "A) While",
+        "B) Due to",
+        "C) Because",
+        "D) Although"
+        ],
+        "correctAnswer": "B) Due to",
+        "teacherCorrection": "The correct choice is 'B) Due to' because it indicates the reason for the decision.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+    },
+    {
+        "text": "The new rules ____ only to employees who were hired after January 1st.",
+        "choices": [
+          "A) fit",
+          "B) work",
+          "C) affect",
+          "D) apply"
+        ],
+        "correctAnswer": "D) apply",
+        "teacherCorrection": "The correct choice is 'D) apply' because it indicates the rules are relevant to those employees.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "Residents list limited parking in the town center among ____ top complaints.",
+        "choices": [
+          "A) his",
+          "B) its",
+          "C) our",
+          "D) their"
+        ],
+        "correctAnswer": "D) their",
+        "teacherCorrection": "The correct choice is 'D) their' because it correctly refers to the residents' complaints.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "She was going to go to the presentation, but ____ her mind at the last minute.",
+        "choices": [
+          "A) changes",
+          "B) changed",
+          "C) was changing",
+          "D) has been changed"
+        ],
+        "correctAnswer": "B) changed",
+        "teacherCorrection": "The correct choice is 'B) changed' because it indicates a completed action in the past.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "The city's website offers useful information ____ how to start and run a small business.",
+        "choices": [
+          "A) in",
+          "B) about",
+          "C) along",
+          "D) upon"
+        ],
+        "correctAnswer": "B) about",
+        "teacherCorrection": "The correct choice is 'B) about' because it correctly prepositions the type of information.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "The company said that as a ____ of the recent tax increase, it will have to raise its prices.",
+        "choices": [
+          "A) cause",
+          "B) result",
+          "C) problem",
+          "D) difficulty"
+        ],
+        "correctAnswer": "B) result",
+        "teacherCorrection": "The correct choice is 'B) result' because it indicates the consequence of the tax increase.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "Please leave enough time at the end of your presentation to take questions from the ____.",
+        "choices": [
+          "A) meeting",
+          "B) audience",
+          "C) interview",
+          "D) information"
+        ],
+        "correctAnswer": "B) audience",
+        "teacherCorrection": "The correct choice is 'B) audience' because it correctly refers to the people listening to the presentation.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "On this project Mr. Flyn's ____ include being both the project manager, and the head engineer.",
+        "choices": [
+          "A) roles",
+          "B) points",
+          "C) values",
+          "D) works"
+        ],
+        "correctAnswer": "A) roles",
+        "teacherCorrection": "The correct choice is 'A) roles' because it indicates the positions or functions he holds.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      },
+      {
+        "text": "Most students said they liked the teacher and found the class ____, but they disliked the textbook.",
+        "choices": [
+          "A) interest",
+          "B) interests",
+          "C) interested",
+          "D) interesting"
+        ],
+        "correctAnswer": "D) interesting",
+        "teacherCorrection": "The correct choice is 'D) interesting' because it is an adjective describing the class.",
+        "examNumber": 0,
+        "category": "Reading",
+        "part": "Incomplete-Sentences",
+        "ref": "is1",
+        "imagePath": "",
+        "audioPath": ""
+      }
+    ]
+}
