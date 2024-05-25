@@ -1,7 +1,10 @@
 import { Router } from 'express';
 import { getAllClasses, getStudentsFromClass, getStudentScores, createOrUpdateClassWithParticipants, getClass } from '../controllers/classController';
+import { requireAuth } from '../middleware/requireAuth'
 
 const router = Router();
+
+router.use(requireAuth);
 
 router.post('/create', createOrUpdateClassWithParticipants);
 

@@ -1,8 +1,10 @@
 import { Router } from 'express';
 import multer from 'multer';
 import { createQuestion, editQuestion, getQuestion, deleteQuestion, getRandomQuestion, getAllQuestions, createMultipleQuestionsViaZip, deleteAllQuestionsByExamNumber, deleteAllQuestions } from '../controllers/questionController';
+import { requireAuth } from '../middleware/requireAuth'
 
 const router = Router();
+router.use(requireAuth);
 
 // Set up Multer for file storage
 const storage = multer.diskStorage({

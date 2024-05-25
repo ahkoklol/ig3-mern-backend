@@ -1,8 +1,10 @@
 import { Router } from 'express';
 import {  } from '../controllers/partController';
 import { createPart, getAllPartsByPartNumber, getPartByRef, deletePartByRef, editPartByRef, getAllParts } from '../controllers/partController';
+import { requireAuth } from '../middleware/requireAuth'
 
 const router = Router();
+router.use(requireAuth);
 
 router.post('/create', createPart);
 router.get('/allparts', getAllParts);
