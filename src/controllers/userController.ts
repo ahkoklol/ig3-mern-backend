@@ -3,7 +3,7 @@ import { UserModel } from "../models/userModel";
 import jwt from 'jsonwebtoken'; // Import 'jsonwebtoken' with lowercase 'jwt'
 
 const createToken = (id: string) => {
-    const token = jwt.sign({ id }, process.env.JWT_SECRET!, { expiresIn: '3d' }); // Return the token
+    const token = jwt.sign({ id }, process.env.JWT_SECRET!, { expiresIn: '4h' }); // Return the token
     return token;
 }
 
